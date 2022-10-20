@@ -73,7 +73,7 @@ def add_codes(outlets, codebook):
             }
         ).merge(codebook, on='outlet', how='left')
 
-        outlets[code_col] = df['code']
+        outlets[code_col] = df['code'].fillna(-98)
 
 
 def add_scores(outlets, scorebook):
@@ -97,7 +97,7 @@ def add_scores(outlets, scorebook):
             how='left'
         )
 
-        outlets[score_col] = df['score']
+        outlets[score_col] = df['score'].fillna(-98)
 
 
 def add_categories(outlets, categories):
@@ -121,7 +121,7 @@ def add_categories(outlets, categories):
             how='left'
         )
 
-        outlets[category_col] = df['categorical']
+        outlets[category_col] = df['categorical'].fillna(-98)
 
 
 def write_summary(outlets, scorebook, categories):
@@ -177,7 +177,7 @@ def write_summary(outlets, scorebook, categories):
 
 def main():
 
-    outlets = pd.read_csv('outlets_opencode.csv')
+    outlets = pd.read_csv('new_outlets_opencode.csv')
     scorebook = create_scorebook()
     codebook = create_codebook()
     categories = create_categories()

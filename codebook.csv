@@ -4,9 +4,9 @@ outlet,pass_1,pass_2,count
 1440 (daily email),1440,1440 Daily Digest,1
 1440 digest,1440,1440 Daily Digest,2
 4chan,4chan,4chan,3
-60 minets,60 Minutes,60 Minutes,1
-60 minutes,61 Minutes,60 Minutes,1
-cbs 60 minutes,local,60 Minutes,1
+60 minets,60 Minutes,CBS,1
+60 minutes,61 Minutes,CBS,1
+cbs 60 minutes,local,CBS,1
 700 club,,700 Club,3
 9gag,,9gag.com,1
 "arron rupar, twitter",Aaron Rupar,Aaron Rupar,1
@@ -182,7 +182,7 @@ my own research,,anti-media,3
 never npr or national news,,anti-media,1
 no,,anti-media,4
 none of the major news sources,,anti-media,1
-not the bee,,anti-media,7
+not the bee,,notthebee.com,7
 "used to rely on npr/bbc/ap/reuters, but they have been skewing towards 'woke-ness'",,anti-media,1
 anti-racism daily,,Anti-Racism Daily,1
 anti war.com,,antiwar.com,1
@@ -272,8 +272,8 @@ ajc,,Atlanta Journal Constitution,3
 atlantic monthly,,Atlantic,1
 austin american statesman - local newspaper,local,Austin American-Statesman,1
 austin american statesman newspaper,local,Austin American-Statesman,1
-austin business daily,local,Austin Business Journal,1
-austin business journal,local,Austin Business Journal,1
+austin business daily,local,local,1
+austin business journal,local,local,1
 axion,Axios,Axios,1
 axios,Axios,Axios,32
 axios charlotte,Axios,Axios,1
@@ -281,8 +281,8 @@ axios today,Axios,Axios,1
 ayn rand institute,,Ayn Rand Institute,1
 azcentral.com,local,azcentral.com,1
 babylon bee,,Babylon Bee,1
-bakersfield californian,local,Bakersfield Californian,1
-baltimorejewishlife.com,,Baltimore Jewish Life,1
+bakersfield californian,local,local,1
+baltimorejewishlife.com,,local,1
 baltimore sun,local,Baltimore Sun,5
 baltimore sun papers,local,Baltimore Sun,1
 baltimore sunpapers,local,Baltimore Sun,1
@@ -335,14 +335,14 @@ british broadcasting service,BBC,BBC,1
 https://www.bbc.com/news/world,BBC,BBC,1
 the bbc,BBC,BBC,1
 the bbc worldservice,BBC,BBC,1
-bbca,,BBCA,1
-beau of the fifth column,,Beau of the Fifth Column,3
-the fifth column,,Beau of the Fifth Column ,1
+bbca,,BBC,1
+beau of the fifth column,,YouTube,3
+the fifth column,,YouTube,1
 before it’s news,,Before Its News,1
 ben crump,,Ben Crump,1
 ben shapiro,Ben Shapiro,Ben Shapiro,8
 "podcasts (shapiro, loesch, bongino, etc.)",Ben Shapiro,Ben Shapiro,1
-bend bulletin,,Bend Bulletin,1
+bend bulletin,,local,1
 benny johnson,Benny Johnson,Benny Johnson,1
 bernard goldberg,,Bernard Goldberg,1
 bet,,BET,1
@@ -378,7 +378,7 @@ black news network,,Black News Channel,1
 blavity,Blavity,Blavity,1
 bleacher report,,Bleacher Report,1
 television radio (jin blind),Television,Blind Kim Seokjin,1
-block club chicago,,Block Club Chicago,2
+block club chicago,,local,2
 bloomberg,Bloomberg,Bloomberg,35
 bloomberg (daily email),Bloomberg,Bloomberg,1
 bloomberg (on line and in print),Bloomberg,Bloomberg,1
@@ -456,7 +456,7 @@ national www.buzzfeed.com,national news,Buzzfeed,1
 byron york twitter,,Byron York,1
 candace owens,Candace Owens,Candace Owens,1
 candice owens,Candace Owens,Candace Owens,1
-canton repository,local,Canton Repository,1
+canton repository,local,local,1
 cap cod times,local,Cape Cod Times,1
 capital gazette,local,Capital Gazette,1
 md capital newpaper,,Capital Gazette,1
@@ -583,8 +583,8 @@ citizenfreepress,https://citizenfreepress.com/,Citizen Free Press,1
 citizenfreepress.com,https://citizenfreepress.com/,Citizen Free Press,1
 citizens free press,https://citizenfreepress.com/,Citizen Free Press,3
 crew - citizens for responsibility & ethics in washington,,Citizens for Responsibility and Ethics in Washington,1
-citizens voice newspaper,,Citizens Voice,2
-citizens' voice newspaper,,Citizens Voice,1
+citizens voice newspaper,,local,2
+citizens' voice newspaper,,local,1
 clarion ledger newspaper,local,Clarion Ledger,1
 clarionledger,local,Clarion Ledger,1
 clay travis/buck sexton,Clay Travis,Clay Travis,1
@@ -768,7 +768,7 @@ the daily wire,Daily Wire,Daily Wire,30
 the dailywire,Daily Wire,Daily Wire,2
 the daily zeitgeist podcast,,Daily Zeitgeist,1
 the daily peanut,,dailypnut.com,1
-dallas business journal,,Dallas Business Journal,1
+dallas business journal,,local,1
 dallas morning news,local,Dallas Morning News,5
 dallas morning news print and online editions,local,Dallas Morning News,1
 the dallas morning news,local,Dallas Morning News,1
@@ -786,7 +786,7 @@ fox dan bongino,Dan Bongino,Dan Bongino,1
 the bongino report,Dan Bongino,Dan Bongino,1
 dan rather,Dan Rather,Dan Rather,1
 dan rather's news and guts on facebook,Dan Rather,Dan Rather,1
-dark horse podcast,Dark Horse,Dark Horse,1
+dark horse podcast,Dark Horse,Bret Weinstein,1
 dave rubin,Dave Rubin,Dave Rubin,2
 ruben report,Dave Rubin,Dave Rubin,2
 horowitz,,David Horowitz,1
@@ -812,8 +812,8 @@ david webb show,David Webb,David Webb,1
 daystar,,Daystar Television,1
 dayton dailey news,local,Dayton Daily News,1
 dayton daily news,local,Dayton Daily News,4
-daytona news-journal daily newspaper,local,Daytona News-Journal,1
-deadline whitehouse on msnbc,MSNBC,Deadline Whitehouse,2
+daytona news-journal daily newspaper,local,local,1
+deadline whitehouse on msnbc,MSNBC,MSNBC,2
 debka,,debka.com,1
 http://www.debka.com/,,debka.com,1
 defense news,,Defense News,1
@@ -827,8 +827,8 @@ democracy now /or/ unicorn riot,,Democracy Now,1
 democracy now!!!,,Democracy Now,1
 democrat and chronicle,,Democrat and Chronicle,1
 democratic underground website,,Democratic Underground,1
-talk radio. .. dennis praegger,Dennis Prager,Dennis Prager,1
-denver business journal,,Denver Business Journal,1
+talk radio. .. dennis praegger,Dennis Prager,PragerU,1
+denver business journal,,local,1
 denver post,local,Denver Post,10
 des moines register,local,Des Moines Register,3
 deseret news,,Deseret News,5
@@ -1031,8 +1031,8 @@ dw,,DW News,4
 dw news,,DW News,2
 dw.com,,DW News,1
 the deutsche welle (online and on television),,DW News,1
-east bay express,,East Bay Express,1
-eastbaytimes,local,East Bay Times,1
+east bay express,,local,1
+eastbaytimes,local,local,1
 ebay,,Ebay,2
 economist podcast,Economist,Economist,1
 economists,Economist,Economist,1
@@ -1046,7 +1046,7 @@ the economist podcasts,Economist,Economist,1
 the econonist,Economist,Economist,1
 ms edge,,Edge,1
 edweek,,Edweek,1
-vocero,,El Vocero,1
+vocero,,local,1
 electoral-vote.com,,electoral-vote.com,1
 electrek website,,Elektrek.co,1
 elijah streams,,Elijah Streams,1
@@ -1056,14 +1056,14 @@ erie times-news,local,Erie Times-News,1
 espn,ESPN,ESPN,32
 espn nbc walb,ESPN,ESPN,1
 espn news,ESPN,ESPN,1
-espn.com,ESPON,ESPON,1
+espn.com,ESPON,ESPN,1
 eib,,European Investment Bank,1
-evansville courier & press,local,Evansville Courier and Press,1
-evansville courier and press,local,Evansville Courier and Press,1
+evansville courier & press,local,local,1
+evansville courier and press,local,local,1
 ewtn,local television,EWTN,4
 catholic ewtn,,EWTN,1
-face the nation,Face the Nation,Face the Nation,2
-face the nation sunday morning,Face the Nation,Face the Nation,1
+face the nation,Face the Nation,CBS,2
+face the nation sunday morning,Face the Nation,CBS,1
 articles appearing on facebook,Facebook,Facebook,1
 articles from a variety of sources posted on facebook,Facebook,Facebook,1
 articles linked inside facebook,Facebook,Facebook,1
@@ -1428,7 +1428,7 @@ hamodia,,Hamodia,1
 hartford courant,,Hartford Courant,1
 harvard business review,,Harvard Business Review,1
 hasan piker's twitch,,Hasan Piker,1
-hattiesberg american,,Hattiesberg American,1
+hattiesberg american,,local,1
 haystack news,,Haystack News,1
 headlineintime.com,,Headline in Time,1
 heather cox richardson,Heather Richardson,Heather Cox Richardson,5
@@ -1465,7 +1465,7 @@ huffpost.com,Huffington Post,Huffington Post,2
 the huffington post,Huffington Post,Huffington Post,2
 www.huffpost.com,Huffington Post,Huffington Post,1
 ice age farmer,,iceagefarmer.com,1
-idaho free press,local,Idaho Free Press,1
+idaho free press,local,local,1
 idaho state journal,local,Idaho State Journal,1
 idaho statesman,local,Idaho Statesman,3
 idaho statesmen,local,Idaho Statesman,1
@@ -1476,12 +1476,12 @@ imgur,,imgur,1
 in these times,,In These Times,1
 ijr,,Independent Journal Review,1
 independent journal review,,Independent Journal Review,1
-indianapolis business journal,,Indianapolis Business Journal,1
+indianapolis business journal,,local,1
 indianapolis star,local,Indianapolis Star,3
 indianapolis star (online),,Indianapolis Star,1
 indianz.com,,indianz.com,1
 indigenous rising media,,Indigenous Rising,1
-indystar,,Indystar,1
+indystar,,Indianapolis Star,1
 info wars,Infowars,Infowars,3
 infowars,Infowars,Infowars,12
 infowars (still zionist backed),Infowars,Infowars,1
@@ -1495,8 +1495,8 @@ instagram feed,,Instagram,1
 instagram news feed,,Instagram,1
 instgram,,Instagram,1
 instapundit,,Instapundit,2
-lancaster newspaper,,Intelligencer Journal,1
-lancaster newspaper - intelligencer journal,,Intelligencer Journal,1
+lancaster newspaper,,local,1
+lancaster newspaper - intelligencer journal,,local,1
 irish times,,Irish Times,1
 arutz sheva,,Israel National News,1
 inter news,,israelhayom.com,1
@@ -1533,7 +1533,7 @@ last week tonight with john oliver tv show on hbo,John Oliver,John Oliver,1
 the daily show/john oliver,John Oliver,John Oliver,1
 jonathan turley,,Jonathan Turley,1
 jordan times,,Jordan Times,1
-journal inquirer (local),,Journal Inquirer,1
+journal inquirer (local),,local,1
 "msnbc: joy  reid, rachel maddow, tiffany cross, ari mel",MSNBC,Joy Reid,1
 judical watch,Judicial Watch,Judicial Watch,1
 judicial watch,Judicial Watch,Judicial Watch,2
@@ -1542,7 +1542,7 @@ just the facts,,Just the Facts,1
 just the news,,Just the News,5
 justthenews.com,,Just the News,1
 justthenews.org,,Just the News,1
-justice matters,,Justice Matters,1
+justice matters,,digital media,1
 podcast: politics justin robert young,Justin Robert Young,Justin Robert Young,1
 jw news,,jw.org,1
 kansas city star,local newspaper,Kansas City Star,2
@@ -1573,7 +1573,7 @@ los angeles times newspaper,LA Times,LA Times,1
 los angeles times online,LA Times,LA Times,1
 www.latimes.com,LA Times,LA Times,1
 "newsfeed on my phone. sources vary: la times, npr, reuters, ap, el universal,journal de montreal, cbc, wall street journal, washington post, cbs, abc, univision, fox news once in a while and newspapers from other latin american countries",,LA Times,1
-lafayette journal & courier,local,Lafayette Journal and Courier,1
+lafayette journal & courier,local,local,1
 lansing state journal,,Lansing State Journal,2
 kudlow,,Larry Kudlow,1
 las vegas newspaper,local,Las Vegas Review Journal,1
@@ -1584,7 +1584,7 @@ latino usa,,Latino USA,1
 fox news laura ingraham,Laura Ingraham,Laura Ingraham,1
 laura ingram,Laura Ingraham,Laura Ingraham,1
 law enforcement today,,Law Enforcement Today,1
-lawrence journal world,local,Lawrence Journal World,1
+lawrence journal world,local,local,1
 lawrence o donnell on m.s.n.b.c,Lawrence O’Donnell,Lawrence O’Donnell,1
 "lawrence o donnell, rachel maddow, chris hayes",Lawrence O’Donnell,Lawrence O’Donnell,1
 le monde,,Le Monde,2
@@ -3145,7 +3145,7 @@ mauinewsnow on facebook,,local,1
 meadville tribune,,local,1
 medford mail tribune,,local,1
 michigan radio,,local,1
-milwaukee journal sentinel,,local,2
+milwaukee journal sentinel,,jsonline.com,2
 missourian newspaper washington missouri,,local,1
 mohave valley daily news,,local,1
 monadnock ledger-transcript,,local,1
@@ -3308,9 +3308,9 @@ www.sanangelolive.com,,local,1
 "yankton, sd press & dakotan online newspaper",,local,1
 ynn - albany,,local,1
 london times,Long Times,London Times,1
-long beach post,,Long Beach Post,1
+long beach post,,local,1
 loop,,Loop News,1
-lost coast outpost,,Lost Coast Outpost,1
+lost coast outpost,,local,1
 loudwire,,loudwire.com,1
 louisville courier-journal online,local,Louisville Courier-Journal,1
 courier journal,,Louisville Courier-Journal,1
@@ -3325,23 +3325,23 @@ marginal revolution,,Marginal Revolution,1
 marginalrevolution.com,,Marginal Revolution,1
 mark dice on youtube,Mark Dice,Mark Dice,1
 mark levin,Mark Levin,Mark Levin,8
-apm marketplace,,Marketplace,2
-market watch,,MarketWatch,3
-marketwatch,,MarketWatch,1
+apm marketplace,,NPR,2
+market watch,,NPR,3
+marketwatch,,NPR,1
 armstrong economics,,Martin Armstrong,1
 mass live,,MassLive,1
 masslive,,MassLive,1
 daily wire-matt walah,Matt Walsh,Matt Walsh,1
 matt walsh,Matt Walsh,Matt Walsh,2
 matzav,,matzav.com,1
-mbc,,MBC,3
+mbc,,NBC,3
 medium daily,,Medium,1
 med page today,,medpagetoday.com,1
 medscape news,,Medscape,1
 medscape nurses,,Medscape,1
-meet the press,,Meet the Press,3
+meet the press,,NBC,3
 megyn kelly podcast,Megyn Kelly,Megyn Kelly,1
-merced sun-star,local,Merced Sun-Star,1
+merced sun-star,local,local,1
 metafilter.com,,metafilter.com,3
 metro zone,,MetroZone,1
 miami herald,local,Miami Herald,4
@@ -3350,17 +3350,17 @@ the daily - podcast by the new york times with michael barbaro,,Michael Barbaro,
 michael berry,Michael Berry,Michael Berry,1
 michael malice,Michael Malice,Michael Malice,1
 smerconish newsletter,,Michael Smerconish,1
-michigan advance,,Michigan Advance,1
+michigan advance,,local,1
 edge,,Microsoft Edge,2
 microsoft edge,,Microsoft Edge,4
-midland daily news,,Midland Daily News,1
+midland daily news,,local,1
 talk radio ... mike gallagher,,Mike Gallagher,1
 mike huckabee newslette,Mike Huckabee,Mike Huckabee,1
 huckabee,,Mike Huckabee,2
 hucpak,,Mike Huckabee,1
 military times,,Military Times,1
-military news netwok,,militarynews.com,1
-military news online,,militarynews.com,1
+military news netwok,,news,1
+military news online,,news,1
 milwaukee journal sentinel online,local,Milwaukee Journal Sentinel,1
 mining.com,,mining.com,1
 minneapolis star and tribune newspaper,local,Minneapolis Star-Tribune,1
@@ -3558,7 +3558,7 @@ ndr,,ndr.de,1
 ndt,,ndtv.com,1
 new atlas,,New Atlas,1
 new england journal of medicine,,New England Journal of Medicine,1
-new hampshire bulletin,,New Hampshire Bulletin,1
+new hampshire bulletin,,local,1
 union leader,,New Hampshire Union Leader,1
 new haven register,,New Haven Register,1
 new republic,,New Republic,2
@@ -4074,8 +4074,8 @@ nhk news,,NHK,1
 nhk world,,NHK World-Japan,3
 america first with nicolas j fuentes,Nick Fuentes,Nick Fuentes,1
 nj.com,,nj.com,8
-nj network,,njn.net,1
-njn,,njn.net,1
+nj network,,local,1
+njn,,local,1
 no agenda,,No Agenda,1
 nolabels,,No Labels,1
 do not watch news,None,None,1
@@ -4397,12 +4397,12 @@ pcgamer,,pcgamer.com,1
 pensacola news journal,local,Pensacola News Journal,1
 pensacola news journal (local daily paper),local,Pensacola News Journal,1
 pensacola news paper,local,Pensacola News Journal,1
-people,,People,1
-people magazine,,People,1
+people,,People Magazine,1
+people magazine,,People Magazine,1
 "youtube: peter schiff, china in focus, wion...etc.",,Peter Schiff,1
 youtube.com/user/sxephil,,Peter Schiff,1
 pew research,,Pew Research,1
-philadelphia citizen,,Philadelphia Citizen,1
+philadelphia citizen,,local,1
 philadelphia inquirer,,Philadelphia Inquirer,5
 the philadelphia inquirer,,Philadelphia Inquirer,3
 phil defranco,Philip DeFranco,Philip DeFranco,1
@@ -4439,7 +4439,7 @@ populist press.com,Populist Press,Populist Press,1
 portland (maine) press herald,local,Portland Press Herald,1
 portland press herald,local,Portland Press Herald,2
 post and courier,local,Post and Courier,1
-the post millenial,Post Millenial,Post Millenial,1
+the post millenial,Post Millenial,Post Millennial,1
 potus on sirius xm,POTUS,POTUS,1
 potus on sirius/xm,POTUS,POTUS,1
 potus on siriusxm,POTUS,POTUS,1
@@ -4460,7 +4460,7 @@ providence journal,local,Providence Journal,4
 providence journal (daily newspaper),local,Providence Journal,1
 punchbowl,Punchbowl,Punchbowl News,1
 punchbowl news,Punchbowl,Punchbowl News,1
-qns.com,,qns.com,1
+qns.com,,local,1
 quartz,Quartz,Quartz,2
 msn rachel maddow,Rachel Maddow,Rachel Maddow,1
 msnbc rachel maddow,Rachel Maddow,Rachel Maddow,2
@@ -4488,7 +4488,7 @@ raw story,Rawstory,Raw Story,6
 rawstory,Rawstory,Raw Story,1
 raw news,,raw-news.net,1
 reader digest,,Readers Digest,1
-reading eagle newspaper,local,Reading Eagle,2
+reading eagle newspaper,local,local,2
 real america news,Real America News,Real America News,1
 real voice,,Real America's Voice,1
 real america voice,Real America’s Voice,Real America’s Voice,1
@@ -4578,7 +4578,7 @@ robert gurler,Robert Gurler,Robert Gurler,1
 robin meade,Robin Meade,Robin Meade,1
 rochash wham,Rochash Wham,Rochash Wham,1
 post bulletin,local,Rochester Post Bulletin,1
-rr star,,Rockford Register Star,1
+rr star,,local,1
 roguerocket.com,,roguerocket.com,2
 roland martin,Roland Martin,Roland Martin,2
 roland martin unfiltered,Roland Martin,Roland Martin,2
@@ -4616,21 +4616,21 @@ union tribune,,San Diego Union-Tribune,1
 sf chronicle,local,San Francisco Chronicle,6
 sf chronicle.com,local,San Francisco Chronicle,1
 san francisco chronicle,SF Chronicle,San Francisco Chronicle,8
-sgv tribune,,San Gabriel Valley Tribune,1
+sgv tribune,,local,1
 mercury news,local,San Jose Mercury News,1
 mercury news online,local,San Jose Mercury News,1
 mercurynews.com,local,San Jose Mercury News,1
 san jose mercury,local,San Jose Mercury News,1
 san jose mercury news,local,San Jose Mercury News,6
 the mercury news,local,San Jose Mercury News,1
-the press democrat,,Santa Rose Press Democrat,1
+the press democrat,,Santa Rosa Press Democrat,1
 sarasota herald newspaper,local,Sarasota Herald,1
 scheer post,Scheer Post,Scheer Post,1
-science,,Science,1
+science,,Science Magazine,1
 science daily,,Science Daily,1
-science friday,,Science Friday,1
+science friday,,NPR,1
 scotus blog,,scotusblog.com,1
-scranton times,local,Scranton Times,1
+scranton times,local,local,1
 fox - sean hannity,Sean Hannity,Sean Hannity,1
 fox need hanity,Sean Hannity,Sean Hannity,1
 fox news hannity,Sean Hannity,Sean Hannity,2
@@ -4649,8 +4649,8 @@ seattle times sunday newspaper,local,Seattle Times,1
 seattle tines,local,Seattle Times,1
 the seattle times,local,Seattle Times,5
 seattle times,Seattle Times,Seattle Times,21
-secular talk (youtube channel),Secular Talk,Secular Talk,1
-secular talk(youtube channel),Secular Talk,Secular Talk,1
+secular talk (youtube channel),Secular Talk,Kyle Kulinski,1
+secular talk(youtube channel),Secular Talk,Kyle Kulinski,1
 late night w/ seth meyers and the late show w/ stephen colbert,,Seth Meyers,1
 sfgate,local,SFgate.com,5
 sfgate.com,SF Chronicle,SFgate.com,2
@@ -4680,7 +4680,7 @@ slashdot.org,,slashdot.org,1
 slate,Slate,Slate,21
 slate magazine,Slate,Slate,1
 slate.com,Slate,Slate,2
-slow boring,,Slow Boring,1
+slow boring,,Matthew Yglesias,1
 smarthernews (on instagram),,SmartHERNews,1
 smart news,,SmartNews,24
 smart phones apps,,SmartNews,1
@@ -4695,18 +4695,18 @@ snapchat,,Snapchat,4
 snapchat - text friends,,Snapchat,1
 snopes,,Snopes,6
 democracy now rising up with sonali,,Sonali Kolhatkar,1
-sound of hope,,Sound of Hope,1
+sound of hope,,Epoch Times,1
 south bend tribune online,local,South Bend Tribune,1
 space.com,,space.com,1
 spacenews,,space.com,1
-special report,,Special Report,1
+special report,,Fox News,1
 spectrum.ieee.org,,spectrum.ieee.org,1
 spiceworks.com,,spiceworks.com,1
 spokesman review spokane,local,Spokesman Review,1
 "spokesman-review (newspaper), spokane wa",local,Spokesman Review,1
 spokesman review,,Spokesman Review,4
-springfield news and sun online,local,Springfield News and Sun,1
-springfield news and sun paper,local,Springfield News and Sun,1
+springfield news and sun online,local,local,1
+springfield news and sun paper,local,local,1
 local paper- st. louis post dispatch,local,St. Louis Post-Dispatch,1
 st louis post dispatch,local,St. Louis Post-Dispatch,2
 st louis post dispatch newspaper print edition,local,St. Louis Post-Dispatch,1
@@ -4738,10 +4738,10 @@ https://strangesounds.org/,,strangesounds.org,1
 stuff.co.nz,,stuff.co.nz,1
 youtuber:styxhexenhammer666,,Styxhexenhammer666,1
 substack,,Substack,3
-suffolk news herald newspaper,,Suffolk News Herald,1
-sun chronicle,local,Sun Chronicle,1
-sun journal,local,Sun Journal,1
-sun journal daily newspaper,local,Sun Journal,1
+suffolk news herald newspaper,,local,1
+sun chronicle,local,local,1
+sun journal,local,local,1
+sun journal daily newspaper,local,local,1
 local newspaper - sun-sentinel,local,Sun-Sentinel,1
 local newspaper (sun-sentinel),local,Sun-Sentinel,1
 sun sentinel website,local,Sun-Sentinel,1
@@ -4794,7 +4794,7 @@ theblaze,The Blaze,The Blaze,2
 theblaze.com,The Blaze,The Blaze,1
 buffalo news paper,,The Buffalo News,1
 the bulwark,,The Bulwark,3
-chattanoogan,local,The Chattanoogan,1
+chattanoogan,local,local,1
 the city,,The City,1
 the common sense show,,The Common Sense Show,1
 conservative tree house,,The Conservative Treehouse,1
@@ -4857,7 +4857,7 @@ thehill.com,The Hill,The Hill,2
 hill,thehill.com,The Hill,1
 the hill (youtube),,The Hill,1
 horn news,,The Horn News,1
-humanist report(youtube channel),,The Humanist Report,1
+humanist report(youtube channel),,YouTube,1
 "email newsletters (the hustle, morning brew, theskimm, usa today coronavirus watch, new york times several different newsletters)",general,The Hustle,1
 independent,,The Independent,4
 the independent,,The Independent,2
@@ -4886,7 +4886,7 @@ the national pulse,,The National Pulse,1
 nevada independent,,The Nevada Independent,1
 the new abnormal podcast,,The New Abnormal,1
 "the news journal (local newspaper - wilmington, de)",,The News Journal,1
-the news leader,,The News Leader,1
+the news leader,,local,1
 the news tribune,,The News Tribune,1
 odyssey,,The Odyssey Online,1
 "satirical: onion, daily show",,The Onion,1
@@ -4894,7 +4894,7 @@ the onion,,The Onion,3
 the onion (seriously),,The Onion,1
 oregonian,local,The Oregonian,3
 the oregonian,local,The Oregonian,5
-patriot radio,,The Patriot ,3
+patriot radio,,The Patriot,3
 hbg. patriot  news,,The Patriot-News,1
 cleveland plaindealer,local,The Plain Dealer,1
 cleveland.com,local,The Plain Dealer,2
@@ -4909,7 +4909,7 @@ ring of fire,,The Ring of Fire,1
 the ringer,,The Ringer,1
 the root,Root,The Root,2
 "naacp, the root, local nj & ny news",,The Root,1
-aurora sentinel,local,The Sentinel,1
+aurora sentinel,local,local,1
 daily skimm,,The Skimm,1
 skimm,,The Skimm,1
 skimmed,,The Skimm,1
@@ -4925,27 +4925,27 @@ the state newspaper,,The State,1
 the stranger,,The Stranger,2
 the sun,,The Sun,1
 the telegraph,,The Telegraph,1
-telegraph herald,,The Telegraph Herald,1
+telegraph herald,,local,1
 tennessean,,The Tennessean,2
 the tennessean newspaper,,The Tennessean,1
-magic valley times news,,The Times-News,1
-the trentonian(newspaper),,The Trentonian,1
+magic valley times news,,local,1
+the trentonian(newspaper),,local,1
 unz.com,,The Unz Review,1
 the verge,The Verge,The Verge,3
-the view,,The View,2
+the view,,ABC,2
 washington free beacon,,The Washington Free Beacon,3
 the washington inquirer.,,The Washington Inquirer,1
 the watchman,,The Watchman,1
 the week,,The Week,10
 the wire,,The Wire,1
-the world from pri podcast,,The World,1
-the world and everything in it,,The World and Everything in it,2
-the world and everything in it (podcast),,The World and Everything in it,1
+the world from pri podcast,,PRI,1
+the world and everything in it,,World Magazine,2
+the world and everything in it (podcast),,World Magazine,1
 the drive,,thedrive.com,1
 the first,,thefirstnews.com,6
 theflipside.io,,theflipside.io,1
 streamers,,thegamer.com,1
-the gray zone,,thegrayzone.com,1
+the gray zone,,The Grayzone,1
 the hard times,,thehardtimes.net,1
 the highwire,,thehighwire.com,1
 the week magazine,,theweek.com,4
@@ -5057,8 +5057,8 @@ trending twitter topics,,Twitter,1
 tweets from journalists i trust,,Twitter,1
 unassciated press,,Unassociatedpress.org,1
 unicorn riot,,Unicorn Riot,1
-universal,,Universal Hub,1
-universalhub,,Universal Hub,1
+universal,,local,1
+universalhub,,local,1
 univision,Univision,Univision,6
 univisión,Univision,Univision,1
 univision - 19,Univision,Univision,1
@@ -5071,8 +5071,8 @@ noticias univicion fresno,,Univision,1
 primer impacto univicion despierta america,,Univision,1
 unimas,,Univision,1
 univicion noticias,,Univision,1
-up first daily podcast,,Up First,1
-up first podcast,,Up First,1
+up first daily podcast,,NPR,1
+up first podcast,,NPR,1
 upi,,UPI,2
 usa  today,USA Today,USA Today,1
 usa today,USA Today,USA Today,71
@@ -5091,10 +5091,10 @@ us today,,USA Today,2
 "podcasts (538, useful idiots)",Useful Idiots,Useful Idiots,1
 varney fox,,Varney Fox,1
 vaush,Vaush,Vaush,1
-local newspaper the ventura county star,local,Ventura County Star,1
-vcstar.com,,Ventura County Star,1
-ventura county star newspaper,,Ventura County Star,1
-vermont digger,,Vermont Digger,1
+local newspaper the ventura county star,local,local,1
+vcstar.com,,local,1
+ventura county star newspaper,,local,1
+vermont digger,,local,1
 vice,Vice,Vice News,12
 vice news,Vice,Vice News,6
 flash point,,Victory Channel,1
@@ -5115,7 +5115,7 @@ viva frye,,Viva Frei,1
 youtube vivabarneslaw,,VivaBarnesLaw,1
 voa,,Voice of America,1
 voice of america,,Voice of America,1
-voice of oc,,Voice of Orange County,1
+voice of oc,,local,1
 voiceofsandiego.org,,Voice of San Diego,1
 vox,Vox,Vox,23
 vox media,Vox,Vox,2
@@ -5206,17 +5206,17 @@ weedweek,,WeedWeek,1
 wego.social,,WeGo.Social,1
 wendy bell radio,,Wendy Bill,1
 western journal,,westernjournal.com,5
-what a day,What a Day,What a Day,1
-what a day podcast,What a Day,What a Day,1
-what a day podcast from crooked media,What a Day,What a Day,1
+what a day,What a Day,Crooked Media,1
+what a day podcast,What a Day,Crooked Media,1
+what a day podcast from crooked media,What a Day,Crooked Media,1
 what does it mean .com,,whatdoesitmean.com,1
 whatfinger,,whatfinger.com,1
 what really happened,,whatreallyhappened.com,1
 what the fuck happened today,,whatthefuckjusthappenedtoday.com,1
 youtube (white house. gov),,White House,1
 wikipedia,,Wikipedia,3
-willamette week,local,Willamette Week,2
-"willamette week (portland, or)",local,Willamette Week,1
+willamette week,local,local,2
+"willamette week (portland, or)",local,local,1
 william briggs,,William Briggs,1
 winston salem journal,local,Winston Salem Journal,1
 wired,Wired,Wired,4

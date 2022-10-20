@@ -1,936 +1,864 @@
-code,count,score
-local,2779,
-CNN,2131,-18.0
-Fox News,2050,23.0
-None,1637,
-New York Times,1138,-10.0
-news,1128,
-NPR,1058,-7.0
-MSNBC,930,-20.0
-NBC,732,-12.0
-ABC,723,-10.0
-Washington Post,676,-12.0
-CBS,667,-10.0
-Newsmax,594,27.0
-Google,571,
-BBC,568,-5.0
-digital media,364,
-Yahoo,316,
-AP,307,-4.0
-Wall Street Journal,263,16.0
-One America News Network,257,27.0
-MSN,239,-7.0
-PBS,238,-6.0
-Facebook,238,
-Apple News,223,-14.0
-Reuters,211,-2.0
-Twitter,202,
-reddit.com,172,
-YouTube,153,
-The Epoch Times,148,22.0
-Daily Wire,140,25.0
-Breitbart,129,28.0
-The Guardian,109,-12.0
-CNBC,95,-10.0
-Huffington Post,91,-20.0
-USA Today,88,-7.0
-The Atlantic,87,-10.0
-family/friends,85,
-Politico,81,-7.0
-Drudge Report,78,16.0
-LA Times,78,-11.0
-anti-media,76,
-Fox Business,75,14.0
-The Blaze,66,27.0
-The Hill,53,1.0
-New York Post,47,16.0
-SmartNews,46,-3.0
-Bloomberg,46,-6.0
-News Break,45,-9.0
-Economist,42,1.0
-Boston Globe,41,-9.0
-Democracy Now,37,-20.0
-Al Jazeera,36,-9.0
-AOL,35,-12.0
-Axios,35,-7.0
-Seattle Times,34,-11.0
-ESPN,34,-10.0
-Bing,33,
-Instagram,33,
-Vox,33,-20.0
-CSPAN,32,0.0
-Young Turks,31,-25.0
-Daily Mail,30,23.0
-Gateway Pundit,30,32.0
-Dan Bongino,28,28.0
-weather,28,
-Tim Pool,28,22.0
-Townhall,27,24.0
-HLN,27,
-Tucker Carlson,27,28.0
-New Yorker,25,-21.0
-Chicago Tribune,25,8.0
-The Skimm,24,-7.0
-Slate,24,-20.0
-Good Morning America,23,-5.0
-Daily Kos,21,-26.0
-conservative news,20,
-Sean Hannity,20,28.0
-Buzzfeed,20,-15.0
-Zerohedge,20,24.0
-Time Magazine,19,-15.0
-Newsweek,19,-9.0
-Daily Caller,19,23.0
-Minneapolis Star-Tribune,19,-10.0
-Rachel Maddow,18,-23.0
-Today show,18,-5.0
-1440 Daily Digest,18,-2.0
-Sky News,18,-3.0
-Vice News,18,-12.0
-Infowars,18,31.0
-newsy.com,18,-6.0
-Univision,17,
-David Muir,17,-10.0
-Breaking Points with Krystal and Saagar,17,1.0
-Rumble,16,31.0
-The Daily Beast,15,-21.0
-TikTok,15,
-Detroit Free Press,15,-10.0
-San Francisco Chronicle,15,-12.0
-Philip DeFranco,14,
-Lester Holt,14,-12.0
-government,14,
-Victory Channel,14,
-Ars Technica,13,-2.0
-RedState,13,27.0
-Telemundo,13,
-Real Clear Politics,13,11.0
-All Sides,13,
-NewsNation,13,-2.0
-Reason,13,14.0
-National Review,13,23.0
-John Oliver,12,
-Christian Broadcast Network,12,16.0
-RT News,12,16.0
-San Jose Mercury News,11,-10.0
-Citizen Free Press,11,24.0
-Crooked Media,11,-21.0
-Sacramento Bee,11,-9.0
-Denver Post,10,-11.0
-The Dispatch,10,12.0
-Flipboard News,10,
-Houston Chronicle,10,-8.0
-The Week,10,-19.0
-Steven Crowder,10,27.0
-mlive.com,10,0.0
-Forbes,10,13.0
-Financial Times,9,-4.0
-Morning Brew,9,0.0
-Telegram,9,
-Washington Times,9,16.0
-The Majority Report,9,-17.0
-Stephen Colbert,9,
-Atlanta Journal Constitution,9,-5.0
-Ben Shapiro,9,20.0
-Ground News,9,0.0
-Christian news,8,
-Mark Levin,8,32.0
-St. Louis Post-Dispatch,8,-10.0
-Baltimore Sun,8,-10.0
-Glenn Beck,8,28.0
-Washington Examiner,8,24.0
-DW News,8,-6.0
-The Oregonian,8,4.5
-nj.com,8,-12.0
-Steve Bannon,8,29.0
-SFgate.com,8,-12.0
-Heather Cox Richardson,8,
-American Thinker,8,29.0
-Philadelphia Inquirer,8,-9.0
-CBC,7,
-Omaha World-Herald,7,9.0
-Bill O’Reilly,7,24.0
-Just the News,7,27.0
-Mother Jones,7,-15.0
-Talking Points,7,
-Dallas Morning News,7,11.0
-revolver.news,7,26.0
-The Daily Show,7,
-Deseret News,7,15.0
-Fivethirtyeight,7,-6.0
-Business Insider,7,-10.0
-Columbus Dispatch,7,-8.0
-Tampa Bay Times,7,-11.0
-LifeSiteNews,7,
-Raw Story,7,-23.0
-Minnesota Public Radio (MPR),6,-9.0
-Modesto Bee,6,-2.0
-Gab,6,
-Microsoft Edge,6,
-Christian Science Monitor,6,-3.0
-News and Guts,6,-11.0
-Arizona Republic,6,-7.0
-Donald Trump,6,
-X22 Report,6,27.0
-Sun-Sentinel,6,
-Spokesman Review,6,4.0
-POTUS,6,
-Duck Duck Go,6,
-thefirstnews.com,6,
-The Nation,6,-20.0
-Snapchat,6,
-ksl.com,6,3.0
-Salt Lake Tribune,6,-7.0
-Albuquerque Journal,6,7.0
-Snopes,6,-7.0
-The Liberty Daily,6,29.0
-The Independent,6,-12.0
-San Antonio Express-News,6,-7.0
-Free Speech TV,5,
-slashdot.org,5,
-Propublica,5,-9.0
-Chicago Sun Times,5,-11.0
-Miami Herald,5,-11.0
-David Pakman,5,-11.0
-Patriot Channel,5,
-Dayton Daily News,5,-4.0
-Hacker News,5,
-Kansas City Star,5,-9.0
-The Onion,5,
-Real America’s Voice,5,
-bible,5,
-St. Paul Pioneer Press,5,-6.0
-Jacobin,5,-24.0
-Richmond Times-Dispatch,5,10.0
-Turning Point USA,5,26.0
-EWTN,5,
-Newsday,5,-12.0
-Jerusalem Post,5,7.0
-Kyle Kulinski,5,
-fark.com,5,
-LinkedIn,5,
-Texas Tribune,5,-10.0
-New York Daily News,5,-12.0
-Orlando Sentinel,5,-7.0
-Trevor Noah,5,-17.0
-Providence Journal,5,-9.0
-westernjournal.com,5,27.0
-Now This,5,
-Rantingly,4,
-Barron’s,4,
-National Geographic,4,0.0
-patriots.win,4,
-Indianapolis Star,4,-2.0
-Bangor Daily News,4,-7.0
-Roland Martin,4,
-deftwire.com,4,
-Times-Picayune,4,-6.0
-theweek.com,4,-19.0
-Cincinnati Enquirer,4,
-Pod Save America,4,-25.0
-The Economist,4,1.0
-Detroit News,4,12.0
-antiwar.com,4,15.0
-Morning Joe,4,-10.0
-Louisville Courier-Journal,4,-10.0
-ACLJ,4,
-mlb.com,4,
-Mike Huckabee,4,20.0
-Anchorage Daily News,4,2.0
-Pittsburgh Post Gazette,4,5.0
-Wired,4,
-Last Week Tonight,4,
-San Diego Union-Tribune,4,-4.0
-Yeshiva World,4,
-Lexington Herald Leader,4,-8.0
-America’s Voice,4,
-Dave Rubin,4,24.0
-MarketWatch,4,5.0
-Right Side Broadcasting Network,4,
-Judicial Watch,4,29.0
-Aon,4,
-Charlotte Observer,4,-10.0
-Tiger Droppings,4,
-The Intercept,4,-22.0
-Idaho Statesman,4,-2.0
-Bill Maher,4,-9.0
-Gothamist,4,-11.0
-Greg Gutfield,4,
-Le Monde,3,-11.0
-The Athletic,3,
-Daily Signal,3,26.0
-And We Know,3,
-Tulsa World,3,10.0
-BitChute,3,33.0
-Press Democrat,3,-7.0
-Brian Williams,3,
-Nextdoor,3,
-PragerU,3,29.0
-Comedy Central,3,
-TMZ,3,-12.0
-Akron Beacon Journal,3,-7.0
-Alternate,3,
-Arizona Daily Star,3,-10.0
-Meet the Press,3,
-Alex Jones,3,32.0
-Des Moines Register,3,-3.0
-Face the Nation,3,
-ntd.com,3,27.0
-Pensacola News Journal,3,-3.0
-Substack,3,
-The Tennessean,3,2.0
-Billings Gazette,3,5.0
-wng.org,3,
-The Washington Free Beacon,3,26.0
-Raleigh News & Observer,3,-9.0
-Matt Walsh,3,24.0
-The Federalist,3,27.0
-The Plain Dealer,3,-10.0
-newser.com,3,-7.0
-Ace of Spades,3,
-NHK,3,
-The Patriot ,3,
-Portland Press Herald,3,-11.0
-none,3,
-Wisconsin State Journal,3,-1.0
-4chan,3,
-PJ Media,3,28.0
-Katie Couric,3,
-The Root,3,-20.0
-Joe Rogan,3,27.0
-Twitchy,3,26.0
-The Bulwark,3,13.0
-metafilter.com,3,
-Rush Limbaugh,3,26.0
-Albany Democrat Herald,3,-1.0
-The Loop,3,
-The Verge,3,-7.0
-Wikipedia,3,0.0
-The State,3,-10.0
-Beau of the Fifth Column,3,
-700 Club,3,
-What a Day,3,
-Cheddar News,3,
-Daily Stormer,3,33.0
-Jezebel,3,-25.0
-The Conservative Treehouse,3,
-Orange County Register,3,7.0
-Tumblr,3,
-The Grayzone,3,
-naturalnews.com,3,11.9
-Truthout,3,-27.0
-bnc.tv,3,
-New Tang Dynasty,3,
-CNET,3,-1.0
-The World and Everything in it,3,
-Steve Deace,3,
-gizmodo.com,3,-18.0
-Ventura County Star,3,
-Citizens Voice,3,
-60 Minutes,3,
-NHK World-Japan,3,
-Las Vegas Review Journal,3,10.0
-MBC,3,
-Willamette Week,3,
-Colorado Sun,3,-8.0
-The Cut,2,-19.0
-Austin American-Statesman,2,-6.0
-NewsWatch,2,
-Medscape,2,0.0
-newsnow.com,2,
-Nora O’Donnell,2,
-Capital Gazette,2,-10.0
-National Catholic Register,2,23.0
-Austin Business Journal,2,
-debka.com,2,21.0
-Populist Press,2,
-Shepard Smith,2,
-Foreign Policy,2,3.0
-Green Bay Press Gazette,2,2.0
-Defense News,2,2.0
-The Pour Over,2,
-Block Club Chicago,2,
-Peter Schiff,2,
-American Family Associaton,2,
-NRA,2,
-Reno Gazette-Journal,2,-6.0
-Pink Bike,2,
-Mises,2,21.0
-France 24,2,-4.0
-Black America Web,2,-20.0
-Discord,2,
-Laura Ingraham,2,
-The Conversation,2,-3.0
-Press-Enterprise,2,10.0
-Common Dreams,2,-22.0
-Anderson Cooper,2,-13.0
-Daily Brew,2,
-The View,2,
-Sharon Says So,2,
-Hot Air,2,23.0
-newswars.com,2,28.0
-Sun Journal,2,
-Christian Post,2,23.0
-Lansing State Journal,2,-2.0
-DTN.com,2,
-Clarion Ledger,2,-9.0
-Crooks and Liars,2,-25.0
-Cedar Rapids Gazette,2,
-Parler,2,31.0
-Chris Hayes,2,
-Secular Talk,2,
-Independent Journal Review,2,1.0
-Candace Owens,2,
-New Republic,2,-22.0
-Dan Rather,2,-11.0
-Daily Hampshire Gazette,2,-11.0
-Oregonian,2,4.5
-Quartz,2,-9.0
-Twitch,2,
-Instapundit,2,
-Honolulu Star-Advertiser,2,-7.0
-Christiane Amanpour,2,
-Marketplace,2,
-Jake Tapper,2,-6.0
-NFL,2,
-Morning Call,2,-2.0
-VINNews.com,2,
-FBN Radio,2,
-DjRjE,2,
-Thom Hartman,2,
-Sirius XM,2,
-Greensboro News and Record,2,-9.0
-Ebay,2,
-Politifact,2,-9.0
-Marginal Revolution,2,8.0
-China Uncensored,2,
-Albert Mohler,2,
-syracuse.com,2,-1.0
-Punchbowl News,2,-4.0
-The National Pulse,2,30.0
-Reading Eagle,2,
-njn.net,2,
-space.com,2,0.0
-roguerocket.com,2,
-Clay Travis,2,
-Sirius XM Urban View,2,
-Evansville Courier and Press,2,
-The National Desk,2,
-Salon,2,-22.0
-Times of Israel,2,-6.0
-UPI,2,
-The Stranger,2,-18.0
-Deadline Whitehouse,2,
-Springfield News and Sun,2,
-gettr.com,2,27.0
-Lawrence O’Donnell,2,
-Jimmy Dore,2,-33.0
-catholicvote.org,2,
-al.com,2,12.0
-National Enquirer,2,22.0
-San Bernardino Sun,2,
-Sam Seder,2,-17.0
-Jeanine Pirro,2,
-American Greatness,2,26.0
-Universal Hub,2,
-Up First,2,
-NewsAPI.org,2,
-Intelligencer Journal,2,
-Inside Edition,2,-7.0
-MassLive,2,
-Times Union,2,
-phys.org,2,0.0
-militarynews.com,2,
-Voice of America,2,-2.0
-Project Veritas,2,27.0
-People,2,
-The Mel K Show,2,
-The Ring of Fire,2,-26.0
-The Horn News,1,
-Vox Cantoris,1,
-The Nevada Independent,1,-3.0
-Dallas Business Journal,1,
-fee.org,1,13.0
-The World,1,
-Agri-Pulse,1,
-Move On,1,-27.0
-Justin Robert Young,1,
-Times of India,1,7.0
-golocal.com,1,
-East Bay Times,1,-7.0
-East Bay Express,1,
-The Times-News,1,
-Baltimore Jewish Life,1,
-BET,1,
-Haystack News,1,
-William Briggs,1,
-Carl Benjamin,1,
-Jewish Currents,1,
-Teen Vogue,1,-21.0
-newzit.com,1,
-The Black Detour,1,
-Jeremy Harrell,1,
-Daily Telegraph,1,
-Chris Chappell,1,
-Stars and Stripes,1,0.0
-Die Welt,1,12.0
-Scheer Post,1,
-drmercola.com,1,
-Canton Repository,1,
-nba.com,1,
-BusinessWeek,1,
-imdb,1,
-Cody Johnston,1,
-The Unz Review,1,30.0
-The Anniston Star,1,-14.0
-MintPress News,1,
-Larry Kudlow,1,
-Beau of the Fifth Column ,1,
-ynetnews.com,1,-12.0
-Howie Carr,1,
-Newsvoice,1,
-The Humanist Report,1,
-Ben Crump,1,
-Anthony Cabassa,1,
-Russell Brand,1,
-Lost Coast Outpost,1,
-Dark Horse,1,
-John Iadarola,1,
-Japan Times,1,1.0
-The News Journal,1,
-The Post-Standard,1,
-Justice Matters,1,
-CSN Radio,1,
-mining.com,1,
-TopBuzz News,1,
-Merced Sun-Star,1,
-Sirius XM Progress,1,
-Tacoma News Tribune,1,
-New Hampshire Union Leader,1,
-Tampa Tribune,1,13.0
-Idaho Free Press,1,
-Slow Boring,1,
-Real Raw News,1,
-Poor Peoples Campaign,1,
-Blavity,1,
-grist.org,1,-12.0
-Tangle,1,
-Philadelphia Citizen,1,
-Alexandia Ocasio-Cortez,1,
-Shade 45,1,
-Lafayette Journal and Courier,1,
-Warren Revord,1,
-Catholic Church,1,
-Megyn Kelly,1,
-The Resurgent,1,24.0
-inside.com,1,
-La Nacion,1,
-iHeartMedia,1,
-Indystar,1,
-Edweek,1,
-The Grio,1,
-Duluth News Tribune,1,-3.0
-South Bend Tribune,1,-3.0
-TVN,1,
-Vimeo,1,
-Seth Meyers,1,
-Robert Evans,1,
-Milwaukee Journal Sentinel,1,
-Indigenous Rising,1,
-Benny Johnson,1,22.0
-Richard Wolff,1,
-pcgamer.com,1,
-Pacifica Network,1,
-Jonathan Turley,1,22.0
-The Last American Vagabond,1,
-Rolling Stone,1,-19.0
-Rational Ground,1,23.0
-qns.com,1,
-No Agenda,1,
-Elektrek.co,1,
-Jim Quinn,1,
-offthepress.com,1,
-Donald Trump Jr.,1,
-Current Affairs,1,-19.0
-Sound of Hope,1,
-Virginian Pilot,1,-5.0
-Howard Stern,1,
-Seattle Post-Intelligencier,1,
-nsmb.com,1,
-Military Times,1,-3.0
-Real America News,1,
-Statnews.com,1,-10.0
-Wedge LIVE,1,
-Long Beach Post,1,
-The Answer,1,
-Dinesh D’Souza,1,
-Mad Magazine,1,
-Viva Frei,1,
-WallBuilders,1,30.0
-Visual Capitalist,1,
-iFunny,1,
-TD Ameritrade,1,
-The Sun,1,23.0
-Midland Daily News,1,
-iceagefarmer.com,1,
-Gayle King,1,
-Sharyl Attkisson,1,
-Real America's Voice,1,23.0
-boardgamegeek.com,1,
-The Patriot-News,1,-5.0
-The Liberty Beacon,1,
-Newsbusters,1,27.0
-Unicorn Riot,1,-21.0
-Ayn Rand Institute,1,13.0
-Sarasota Herald,1,
-The Sentinel,1,
-big3.com,1,
-The Lincoln Project,1,-7.0
-American Consequences,1,22.0
-European Investment Bank,1,
-Jessie Waters,1,
-Taylor Marshall,1,
-azcentral.com,1,-7.0
-Suspicious0bservers.org,1,
-Patrick Flynn,1,
-Science Friday,1,
-The Bismarck Tribune,1,1.0
-Chris Cuomo,1,
-Black Eyed Politics,1,
-Coast to Coast,1,
-Majority 54,1,
-Live Science,1,0.0
-WeedWeek,1,
-Lew Rockwell,1,30.0
-amac.us,1,24.0
-Martin Armstrong,1,
-Bret Weinstein,1,
-thedrive.com,1,
-Al Monitor,1,-9.0
-Common Cause,1,-10.0
-Latino USA,1,
-The Hustle,1,
-London Times,1,
-Hoopla,1,
-Tempest Magazine,1,
-The Common Sense Show,1,22.9
-Unassociatedpress.org,1,
-The City,1,-8.0
-Gary Null,1,
-Liberal Hivemind,1,
-Pantsuit Politics,1,
-Pew Research,1,0.0
-Bott Radio Network,1,
-America's Voice,1,-16.0
-Daystar Television,1,
-Robert Gurler,1,
-Anti-Racism Daily,1,
-Cycling News,1,
-fxstreet.com,1,
-Daily Chatter,1,
-Majority Report,1,-17.0
-theflipside.io,1,0.0
-Democratic Underground,1,-25.0
-wtf is happening,1,
-Loop News,1,
-Before Its News,1,
-raw-news.net,1,
-TLDR News,1,
-George Stephanopolis,1,-7.0
-Smithsonian Magazine,1,0.0
-Stamford Advocate,1,-7.0
-Newark Star Ledger,1,
-Bret Baier,1,
-Popular Front,1,
-Vermont Digger,1,
-newsnotnoise.com,1,
-thehardtimes.net,1,
-Indianapolis Business Journal,1,
-The Spectator,1,
-New York Magazine,1,-19.0
-outreachmagazine.com,1,
-Gawker,1,
-whatreallyhappened.com,1,
-Dennis Prager,1,
-Erie Times-News,1,-3.0
-Concord Monitor,1,-3.0
-Post and Courier,1,2.0
-Entertainment Weekly,1,-8.0
-Black Agenda Report,1,-27.0
-RealClearPolitics,1,
-Irish Times,1,-8.0
-Post Millenial,1,
-Patriotic Times,1,
-Daily Zeitgeist,1,
-Shit You Should Care About,1,
-ProPublica,1,-9.0
-Vulture,1,-12.0
-wearemitu.com,1,
-White House,1,
-The Odyssey Online,1,-14.0
-David Webb,1,
-Michael Malice,1,
-Idaho State Journal,1,4.5
-indianz.com,1,
-The Soufan Center,1,
-Babylon Bee,1,
-yubanet.com,1,
-The Wire,1,
-hisglory.me,1,
-Atlantic,1,-10.0
-Gainesville Sun,1,3.0
-whatfinger.com,1,23.0
-Hattiesberg American,1,
-Guy McPherson,1,
-Blind Kim Seokjin,1,
-Wendy Bill,1,
-legalinsurrection.com,1,22.0
-Alexa Foxx,1,
-We the Media,1,
-Denver Business Journal,1,
-Voice of Orange County,1,
-knowwherenews.com,1,
-The Trentonian,1,
-Rochash Wham,1,
-APN News,1,
-The News Leader,1,
-jw.org,1,
-swprs.org/media-navigator,1,
-eonline.com,1,
-Elijah Streams,1,
-radindiemedia.com,1,
-Daily Poster,1,-24.0
-Gwendolyn Sue Logan,1,
-Jamie Chapman,1,
-Foc News,1,
-raptureready.com,1,
-filtermag.org,1,
-The Flip Side,1,0.0
-israelhayom.com,1,23.0
-Breaking911,1,16.3
-The Buffalo News,1,-10.0
-MetroZone,1,
-Law Enforcement Today,1,27.0
-Aaron Rupar,1,
-joemygod.com,1,
-ClearValue Tax,1,
-Desert Sun,1,4.5
-Daytona News-Journal,1,
-Science Daily,1,0.0
-The Ringer,1,-10.0
-The Final Call,1,
-Styxhexenhammer666,1,
-Useful Idiots,1,
-whatdoesitmean.com,1,
-Nick Fuentes,1,
-Santa Rose Press Democrat,1,
-Hal Turner,1,
-electoral-vote.com,1,-17.0
-mymotherlode.com,1,
-Tree House,1,
-Democrat and Chronicle,1,-9.0
-thegrayzone.com,1,
-weaselzippers.us,1,26.0
-9gag.com,1,
-Varney Fox,1,
-stuff.co.nz,1,-7.0
-Arnold King,1,
-freerepublic.com,1,24.0
-Tipping Point Radio,1,
-Readers Digest,1,
-ace.mu.nu,1,
-Lincoln Journal Star,1,-1.0
-Rapid City Journal,1,-2.0
-Fresno Bee,1,-9.0
-Daily Citizen - Focus on the Family,1,
-Michael Berry,1,
-Buck Sexton,1,
-New England Journal of Medicine,1,
-The Chattanoogan,1,
-Redfish,1,
-mirs.news,1,
-Pamplin Media,1,
-Smash Da Topic,1,
-The Telegraph,1,
-Mark Dice,1,
-Conservative Daily,1,
-SmartHERNews,1,
-whatthefuckjusthappenedtoday.com,1,
-dailypnut.com,1,
-newsone.com,1,-21.0
-Joy Reid,1,
-Norfolk Daily News,1,1.0
-Rockford Register Star,1,
-NextNewsNow,1,
-Citations Needed,1,
-Political Flare,1,-30.0
-Sun Chronicle,1,
-Waco Tribune-Herald,1,-1.0
-The Watchman,1,
-Joe Scarborough,1,
-Lawrence Journal World,1,
-Hartford Courant,1,-11.0
-Winston Salem Journal,1,-4.0
-Jay Sekulow,1,
-Red Eye Radio,1,
-Rational Security 2.0,1,
-Stew Peters,1,
-The Telegraph Herald,1,
-New Haven Register,1,-7.0
-Dow Jones,1,
-American Prospect,1,-21.0
-Advisor Perspectives,1,
-lucianne.com,1,25.0
-Daily Patriot Report,1,
-Catholic news,1,
-Herfkervelt,1,
-SkyWatch TV,1,
-Byron York,1,
-lehighvalleylive.com,1,-6.0
-Bakersfield Californian,1,
-Science,1,
-Left Right and Center,1,
-Special Report,1,
-Michigan Advance,1,
-The Inside Drop,1,
-Voice of San Diego,1,-11.0
-insider.com,1,-12.0
-Church Militant,1,29.0
-thehighwire.com,1,
-First Things,1,
-Mike Gallagher,1,
-Jewish World Review,1,23.0
-Michael Smerconish,1,
-New Hampshire Bulletin,1,
-Dick Morris,1,
-fidelity.com,1,
-Cape Cod Times,1,-3.0
-thegamer.com,1,
-Just the Facts,1,24.0
-John Birch Society,1,
-Ron Placone,1,
-Ames Tribune,1,
-The Late Show,1,
-Robin Meade,1,
-Noticias al dia,1,
-HackerNews,1,
-Stephanie Miller,1,
-Hasan Piker,1,
-Bridget Phetasy,1,
-Liberty Daily,1,29.0
-amerika.org,1,
-Renewed Right,1,
-PRI,1,-11.0
-HighWire Press,1,
-Lindell TV,1,27.0
-Pittsburgh Tribune Review,1,8.0
-Hamodia,1,
-Radio New Zealand,1,
-American Action Network,1,
-imgur,1,
-NewsMax,1,27.0
-In These Times,1,-24.0
-Bob Livingston,1,
-Conservative Brief,1,27.0
-ESPON,1,
-BBCA,1,
-digg.com,1,-8.0
-L.A. Marzulli,1,
-strangesounds.org,1,
-CFP,1,
-Sonali Kolhatkar,1,
-Jack Posobiec,1,
-David Horowitz,1,
-Anglican Ink,1,
-Ashleigh Banfield,1,
-Vaush,1,
-Final Point,1,
-Michael Barbaro,1,
-The Real News Network,1,-18.0
-TFIGlobal,1,
-Patriot,1,
-ndtv.com,1,-13.0
-CoinDesk,1,
-ndr.de,1,
-Political Wire,1,-3.0
-Headline in Time,1,
-Citizens for Responsibility and Ethics in Washington,1,
-San Gabriel Valley Tribune,1,
-Andrea Mitchell,1,
-Scranton Times,1,
-The Journal Gazette,1,-2.0
-Britxit,1,
-American Family Radio,1,
-Black News Channel,1,
-Young Conservatives,1,27.0
-Alimetry,1,
-News Explorer,1,
-Suffolk News Herald,1,
-Craigslist,1,
-newsa,1,
-Roman Balmakov,1,
-The Morning Call,1,-2.0
-anandabazar.com,1,
-Feedly,1,
-medpagetoday.com,1,0.0
-Jordan Times,1,-3.0
-Journal Inquirer,1,
-The New Abnormal,1,
-digtial media,1,
-Anthony Brian Logan,1,
-NTL Institute,1,
-banned.video,1,
-Fareed Zakaria,1,
-Rochester Post Bulletin,1,
-Good News Network,1,
-Bozeman Daily Chronicle,1,-1.0
-futuredanger.com,1,
-No Labels,1,-2.0
-scotusblog.com,1,-2.0
-We Are Change,1,20.0
-Answers News,1,
-The Rational National,1,
-Medium,1,-9.0
-VivaBarnesLaw,1,
-Air Force Times,1,0.0
-Your Black World,1,-20.0
-Edge,1,
-warroom.org,1,
-Catholic Family News,1,
-Damage Report,1,
-Bleacher Report,1,-8.0
-The News Tribune,1,-9.0
-Texas Monthly,1,-10.0
-barchart.com,1,
-Northwest Arkansas Gazette,1,
-Waterbury Republican,1,
-Florida Times Union,1,-3.0
-WeGo.Social,1,
-detroitnews.com,1,12.0
-Haaretz,1,-17.0
-Bernard Goldberg,1,
-Israel National News,1,
-Right Wing Watch,1,-25.0
-spiceworks.com,1,
-New Atlas,1,0.0
-Chicks on the Right,1,23.0
-OutKick,1,24.0
-loudwire.com,1,
-Centre for Research on Globalization,1,
-Bitch Media,1,-20.0
-Realclear Politics,1,
-Bill Spadea,1,
-Red Future News,1,
-matzav.com,1,
-Occupy Democrats,1,-31.0
-The Washington Inquirer,1,
-Harvard Business Review,1,-2.0
-Bend Bulletin,1,
-Kiplinger Letter,1,
-spectrum.ieee.org,1,
-Charles Hugh Smith,1,
-The Ann Arbor News,1,
-El Vocero,1,
-Ken LaCorte,1,
-Marc Levin,1,
-repeat.gg,1,
+code,count,score,categorical
+-98,6454,,
+local,2841,,5.0
+CNN,2131,-18.0,
+Fox News,2052,23.0,
+New York Times,1138,-10.0,
+news,1130,,6.0
+NPR,1067,-7.0,
+MSNBC,932,-20.0,
+NBC,738,-12.0,
+ABC,725,-10.0,
+Washington Post,676,-12.0,
+CBS,673,-10.0,
+Newsmax,594,27.0,
+Google,571,,4.0
+BBC,569,-5.0,
+None,385,,0.0
+digital media,365,,12.0
+Yahoo,316,,4.0
+AP,307,-4.0,
+Wall Street Journal,263,16.0,
+One America News Network,256,27.0,
+MSN,239,-7.0,
+Facebook,238,,3.0
+PBS,238,-6.0,
+Apple News,223,-14.0,
+Reuters,211,-2.0,
+Twitter,202,,3.0
+reddit.com,172,,3.0
+YouTube,158,,3.0
+The Epoch Times,148,22.0,
+Daily Wire,140,25.0,
+Breitbart,129,28.0,
+The Guardian,109,-12.0,
+CNBC,95,-10.0,
+Huffington Post,91,-20.0,
+USA Today,88,-7.0,
+The Atlantic,87,-10.0,
+family/friends,85,,1.0
+Politico,81,-7.0,
+LA Times,78,-11.0,
+Drudge Report,78,16.0,
+Fox Business,75,14.0,
+anti-media,69,,9.0
+The Blaze,66,27.0,
+The Hill,53,1.0,
+New York Post,47,16.0,
+SmartNews,46,-3.0,
+Bloomberg,46,-6.0,
+News Break,45,-9.0,
+Economist,42,1.0,
+Boston Globe,41,-9.0,
+Democracy Now,37,-20.0,
+Al Jazeera,36,-9.0,
+ESPN,35,-10.0,
+AOL,35,-12.0,
+Axios,35,-7.0,
+Seattle Times,34,-11.0,
+Bing,33,,4.0
+Vox,33,-20.0,
+Instagram,33,,3.0
+CSPAN,32,0.0,
+Young Turks,31,-25.0,
+Daily Mail,30,23.0,
+Gateway Pundit,30,32.0,
+weather,28,,2.0
+Dan Bongino,28,28.0,10.0
+Tim Pool,28,22.0,10.0
+HLN,27,10.0,
+Tucker Carlson,27,28.0,10.0
+Townhall,27,24.0,
+New Yorker,25,-21.0,
+Chicago Tribune,25,8.0,
+The Skimm,24,-7.0,
+Slate,24,-20.0,
+Good Morning America,23,-5.0,
+Daily Kos,21,-26.0,
+conservative news,20,,7.0
+Buzzfeed,20,-15.0,
+Zerohedge,20,24.0,
+Sean Hannity,20,28.0,10.0
+Newsweek,19,-9.0,
+Minneapolis Star-Tribune,19,-10.0,
+Time Magazine,19,-15.0,
+Daily Caller,19,23.0,
+newsy.com,18,-6.0,
+Vice News,18,-12.0,
+Today show,18,-5.0,
+Sky News,18,-3.0,
+Infowars,18,31.0,
+Rachel Maddow,18,-23.0,10.0
+1440 Daily Digest,18,-2.0,
+Univision,17,,6.0
+David Muir,17,-10.0,10.0
+Breaking Points with Krystal and Saagar,17,1.0,
+Rumble,16,31.0,
+Detroit Free Press,15,-10.0,
+The Daily Beast,15,-21.0,
+San Francisco Chronicle,15,-12.0,
+TikTok,15,,3.0
+Lester Holt,14,-12.0,10.0
+Philip DeFranco,14,,10.0
+Victory Channel,14,,8.0
+government,14,,11.0
+Crooked Media,14,-21.0,
+NewsNation,13,-2.0,
+National Review,13,23.0,
+Telemundo,13,,6.0
+All Sides,13,,4.0
+Reason,13,14.0,
+Christian Broadcast Network,13,16.0,
+RedState,13,27.0,
+Ars Technica,13,-2.0,
+Real Clear Politics,13,11.0,
+RT News,12,16.0,
+John Oliver,12,,10.0
+Citizen Free Press,11,24.0,
+San Jose Mercury News,11,-10.0,
+Sacramento Bee,11,-9.0,
+Steven Crowder,10,27.0,10.0
+Forbes,10,13.0,
+The Week,10,-19.0,
+Denver Post,10,-11.0,
+The Dispatch,10,12.0,
+Houston Chronicle,10,-8.0,
+Flipboard News,10,,4.0
+mlive.com,10,0.0,
+Financial Times,9,-4.0,
+Morning Brew,9,0.0,
+Atlanta Journal Constitution,9,-5.0,
+Ben Shapiro,9,20.0,10.0
+Stephen Colbert,9,,10.0
+Telegram,9,,3.0
+The Majority Report,9,-17.0,
+Ground News,9,0.0,
+Washington Times,9,16.0,
+Baltimore Sun,8,-10.0,
+The Oregonian,8,4.5,
+Steve Bannon,8,29.0,10.0
+nj.com,8,-12.0,
+DW News,8,-6.0,
+American Thinker,8,29.0,
+Washington Examiner,8,24.0,
+St. Louis Post-Dispatch,8,-10.0,
+Heather Cox Richardson,8,,10.0
+Glenn Beck,8,28.0,10.0
+Christian news,8,,8.0
+Philadelphia Inquirer,8,-9.0,
+Mark Levin,8,32.0,10.0
+SFgate.com,8,-12.0,
+Omaha World-Herald,7,9.0,
+Deseret News,7,15.0,
+Columbus Dispatch,7,-8.0,
+LifeSiteNews,7,27.0,
+notthebee.com,7,22.0,
+Kyle Kulinski,7,,10.0
+Mother Jones,7,-15.0,
+Bill O’Reilly,7,24.0,10.0
+The Daily Show,7,,13.0
+Business Insider,7,-10.0,
+Tampa Bay Times,7,-11.0,
+revolver.news,7,26.0,
+Fivethirtyeight,7,-6.0,
+Just the News,7,27.0,
+Dallas Morning News,7,11.0,
+Raw Story,7,-23.0,
+Talking Points,7,-20.0,
+POTUS,6,,11.0
+Donald Trump,6,,10.0
+Modesto Bee,6,-2.0,
+Minnesota Public Radio (MPR),6,-9.0,
+Spokesman Review,6,4.0,
+Salt Lake Tribune,6,-7.0,
+The Liberty Daily,6,29.0,
+Microsoft Edge,6,,4.0
+thefirstnews.com,6,,6.0
+Arizona Republic,6,-7.0,
+Albuquerque Journal,6,7.0,
+Sun-Sentinel,6,-2.0,
+Duck Duck Go,6,,4.0
+Snopes,6,-7.0,
+X22 Report,6,27.0,
+News and Guts,6,-11.0,
+Snapchat,6,,3.0
+Gab,6,,3.0
+ksl.com,6,3.0,
+CBC News,6,-10.0,
+The Nation,6,-20.0,
+San Antonio Express-News,6,-7.0,
+The Independent,6,-12.0,
+Christian Science Monitor,6,-3.0,
+fark.com,5,,3.0
+Chicago Sun Times,5,-11.0,
+Miami Herald,5,-11.0,
+westernjournal.com,5,27.0,
+Jacobin,5,-24.0,
+Providence Journal,5,-9.0,
+slashdot.org,5,,3.0
+Real America’s Voice,5,23.0,
+Turning Point USA,5,26.0,
+Newsday,5,-12.0,
+Kansas City Star,5,-9.0,
+Propublica,5,-9.0,
+David Pakman,5,-11.0,10.0
+Indianapolis Star,5,-2.0,
+Dayton Daily News,5,-4.0,
+EWTN,5,,8.0
+bible,5,,7.0
+Orlando Sentinel,5,-7.0,
+Hacker News,5,,4.0
+Now This,5,-26.0,
+LinkedIn,5,,3.0
+Patriot Channel,5,,7.0
+The Onion,5,,13.0
+Free Speech TV,5,-21.0,
+Jerusalem Post,5,7.0,
+St. Paul Pioneer Press,5,-6.0,
+New York Daily News,5,-12.0,
+Richmond Times-Dispatch,5,10.0,
+Texas Tribune,5,-10.0,
+Trevor Noah,5,-17.0,10.0
+Cincinnati Enquirer,4,-3.0,5.0
+Dave Rubin,4,24.0,10.0
+Last Week Tonight,4,,13.0
+San Diego Union-Tribune,4,-4.0,
+Lexington Herald Leader,4,-8.0,
+Detroit News,4,12.0,
+patriots.win,4,,7.0
+The Intercept,4,-22.0,
+Rantingly,4,,7.0
+mlb.com,4,,14.0
+Times-Picayune,4,-6.0,
+Barron’s,4,,0.0
+Roland Martin,4,,10.0
+ACLJ,4,24.0,
+Tiger Droppings,4,,14.0
+Aon,4,,0.0
+Pittsburgh Post Gazette,4,5.0,
+antiwar.com,4,15.0,
+Louisville Courier-Journal,4,-10.0,
+Bangor Daily News,4,-7.0,
+Pod Save America,4,-25.0,
+Mike Huckabee,4,20.0,10.0
+PragerU,4,29.0,
+Right Side Broadcasting Network,4,,7.0
+The Economist,4,1.0,
+National Geographic,4,0.0,
+Yeshiva World,4,,8.0
+Judicial Watch,4,29.0,
+Morning Joe,4,-10.0,
+The Grayzone,4,,16.0
+theweek.com,4,-19.0,
+Gothamist,4,-11.0,
+Anchorage Daily News,4,2.0,
+Greg Gutfield,4,,10.0
+deftwire.com,4,,7.0
+Bill Maher,4,-9.0,10.0
+America’s Voice,4,-16.0,
+Wired,4,-9.0,
+Charlotte Observer,4,-10.0,
+Idaho Statesman,4,-2.0,
+4chan,3,,3.0
+Brian Williams,3,,10.0
+The Plain Dealer,3,-10.0,
+Wisconsin State Journal,3,-1.0,
+The Patriot,3,,15.0
+none,3,,0.0
+Daily Signal,3,26.0,
+The Washington Free Beacon,3,26.0,
+Tulsa World,3,10.0,
+newser.com,3,-7.0,
+TMZ,3,-12.0,
+Raleigh News & Observer,3,-9.0,
+The Federalist,3,27.0,
+BitChute,3,33.0,
+Press Democrat,3,-7.0,5.0
+Nextdoor,3,,3.0
+Billings Gazette,3,5.0,
+Joe Rogan,3,27.0,10.0
+And We Know,3,,7.0
+The Verge,3,-7.0,
+Albany Democrat Herald,3,-1.0,
+Ace of Spades,3,,7.0
+Alex Jones,3,32.0,10.0
+Portland Press Herald,3,-11.0,
+Pensacola News Journal,3,-3.0,
+Katie Couric,3,,10.0
+PJ Media,3,28.0,
+Alternate,3,,0.0
+NHK,3,-7.0,
+The Tennessean,3,2.0,
+Matt Walsh,3,24.0,10.0
+Des Moines Register,3,-3.0,
+ntd.com,3,27.0,
+Le Monde,3,-11.0,
+The Root,3,-20.0,
+Substack,3,,12.0
+metafilter.com,3,,3.0
+The Bulwark,3,13.0,
+wng.org,3,22.0,
+Akron Beacon Journal,3,-7.0,
+Rush Limbaugh,3,26.0,10.0
+Arizona Daily Star,3,-10.0,
+Twitchy,3,26.0,
+The Athletic,3,,14.0
+gizmodo.com,3,-18.0,
+The Conservative Treehouse,3,31.0,
+The Loop,3,,6.0
+Wikipedia,3,0.0,
+World Magazine,3,22.0,
+naturalnews.com,3,11.9,
+Jezebel,3,-25.0,
+Cheddar News,3,-6.0,
+Colorado Sun,3,-8.0,
+CNET,3,-1.0,
+Daily Stormer,3,33.0,
+Truthout,3,-27.0,
+Orange County Register,3,7.0,
+700 Club,3,24.0,
+Tumblr,3,,3.0
+NHK World-Japan,3,-7.0,
+Las Vegas Review Journal,3,10.0,
+The State,3,-10.0,
+bnc.tv,3,,6.0
+Steve Deace,3,,10.0
+New Tang Dynasty,3,27.0,
+Candace Owens,2,,10.0
+Honolulu Star-Advertiser,2,-7.0,
+Sirius XM Urban View,2,,12.0
+Twitch,2,,3.0
+Daily Brew,2,,6.0
+Independent Journal Review,2,1.0,
+Hot Air,2,23.0,
+Anderson Cooper,2,-13.0,10.0
+Instapundit,2,,7.0
+FBN Radio,2,,8.0
+NFL,2,,14.0
+France 24,2,-4.0,
+Discord,2,,3.0
+Shepard Smith,2,,10.0
+The Cut,2,-19.0,
+American Family Associaton,2,29.0,
+newsnow.com,2,-2.0,
+NewsWatch,2,-6.0,
+Reno Gazette-Journal,2,-6.0,
+The Conversation,2,-3.0,
+Peter Schiff,2,,10.0
+Laura Ingraham,2,,10.0
+Daily Hampshire Gazette,2,-11.0,
+Austin American-Statesman,2,-6.0,
+Quartz,2,-9.0,
+Christiane Amanpour,2,,10.0
+New Republic,2,-22.0,
+jsonline.com,2,-7.0,
+DTN.com,2,,0.0
+Parler,2,31.0,
+Clarion Ledger,2,-9.0,
+UPI,2,3.0,
+NRA,2,27.0,
+Albert Mohler,2,,10.0
+NewsAPI.org,2,,0.0
+debka.com,2,21.0,
+DjRjE,2,,0.0
+Politifact,2,-9.0,
+syracuse.com,2,-1.0,
+Times of Israel,2,-6.0,
+Clay Travis,2,,10.0
+Christian Post,2,23.0,
+The Stranger,2,-18.0,
+Sirius XM,2,,12.0
+Jimmy Dore,2,-33.0,10.0
+American Greatness,2,26.0,
+MassLive,2,-2.0,
+Lawrence O’Donnell,2,,10.0
+Voice of America,2,-2.0,
+Jeanine Pirro,2,,10.0
+The Pour Over,2,8.0,
+PRI,2,-11.0,
+Bret Weinstein,2,,10.0
+Pink Bike,2,,0.0
+Cedar Rapids Gazette,2,10.0,5.0
+Populist Press,2,30.0,
+Thom Hartman,2,,10.0
+Chris Hayes,2,,10.0
+Crooks and Liars,2,-25.0,
+Lansing State Journal,2,-2.0,
+Common Dreams,2,-22.0,
+newswars.com,2,28.0,
+Press-Enterprise,2,10.0,
+Sharon Says So,2,,10.0
+Morning Call,2,-2.0,
+Jake Tapper,2,-6.0,10.0
+Oregonian,2,4.5,
+Nora O’Donnell,2,,10.0
+Medscape,2,0.0,
+National Catholic Register,2,23.0,
+Black America Web,2,-20.0,
+Mises,2,21.0,
+Comedy Central,2,,0.0
+Sam Seder,2,-17.0,10.0
+phys.org,2,0.0,
+The Mel K Show,2,,10.0
+The National Pulse,2,30.0,
+Defense News,2,2.0,
+The National Desk,2,,6.0
+roguerocket.com,2,,16.0
+Inside Edition,2,-7.0,
+catholicvote.org,2,,8.0
+Capital Gazette,2,-10.0,
+space.com,2,0.0,
+Marginal Revolution,2,8.0,
+Times Union,2,-6.0,5.0
+Ebay,2,,0.0
+The Ring of Fire,2,-26.0,
+Project Veritas,2,27.0,
+gettr.com,2,27.0,
+al.com,2,12.0,
+Salon,2,-22.0,
+San Bernardino Sun,2,8.0,5.0
+Greensboro News and Record,2,-9.0,
+Foreign Policy,2,3.0,
+National Enquirer,2,22.0,
+China Uncensored,2,27.0,
+Punchbowl News,2,-4.0,
+Green Bay Press Gazette,2,2.0,
+Dan Rather,2,-11.0,10.0
+People Magazine,2,-16.0,
+VINNews.com,2,,8.0
+TVN,1,,15.0
+golocal.com,1,,0.0
+Vimeo,1,,3.0
+Indigenous Rising,1,,15.0
+WeedWeek,1,,15.0
+grist.org,1,-12.0,
+imdb,1,,12.0
+Scheer Post,1,,15.0
+South Bend Tribune,1,-3.0,
+BusinessWeek,1,-6.0,
+Patrick Flynn,1,,10.0
+Japan Times,1,1.0,
+The News Journal,1,-7.0,
+The Post-Standard,1,-1.0,
+Suspicious0bservers.org,1,,15.0
+Haystack News,1,,15.0
+Stars and Stripes,1,0.0,
+Newsvoice,1,,4.0
+Black Eyed Politics,1,32.0,
+The Bismarck Tribune,1,1.0,
+Live Science,1,0.0,
+The Lincoln Project,1,-7.0,
+Cody Johnston,1,,10.0
+The Anniston Star,1,-14.0,
+The Nevada Independent,1,-3.0,
+Agri-Pulse,1,,15.0
+Taylor Marshall,1,,10.0
+Alexandia Ocasio-Cortez,1,,10.0
+Larry Kudlow,1,,10.0
+Die Welt,1,12.0,
+Howie Carr,1,,10.0
+The Grio,1,-23.0,
+mining.com,1,,15.0
+Shade 45,1,,15.0
+Catholic Church,1,,7.0
+Megyn Kelly,1,,10.0
+Vox Cantoris,1,,7.0
+Ayn Rand Institute,1,13.0,
+iHeartMedia,1,,0.0
+Carl Benjamin,1,,10.0
+Coast to Coast,1,17.6,
+Seth Meyers,1,,10.0
+iFunny,1,,3.0
+TopBuzz News,1,,4.0
+Sharyl Attkisson,1,,10.0
+Tangle,1,1.8,
+boardgamegeek.com,1,,0.0
+inside.com,1,,15.0
+Sarasota Herald,1,-2.0,5.0
+The Resurgent,1,24.0,
+Warren Revord,1,,10.0
+nba.com,1,,14.0
+Unicorn Riot,1,-21.0,
+fee.org,1,13.0,
+The Horn News,1,30.0,
+Move On,1,-27.0,
+Real America's Voice,1,23.0,
+Chris Chappell,1,,10.0
+MintPress News,1,-12.0,
+The Unz Review,1,30.0,
+Times of India,1,7.0,
+drmercola.com,1,7.1,
+Daily Telegraph,1,21.0,
+Newsbusters,1,27.0,
+The Black Detour,1,,15.0
+Jewish Currents,1,,8.0
+The Liberty Beacon,1,,7.0
+ynetnews.com,1,-12.0,
+La Nacion,1,,6.0
+Edweek,1,,15.0
+Majority 54,1,,15.0
+Matthew Yglesias,1,,10.0
+Sirius XM Progress,1,,12.0
+Tacoma News Tribune,1,-9.0,5.0
+newzit.com,1,,4.0
+Ben Crump,1,,10.0
+New Hampshire Union Leader,1,16.0,5.0
+Tampa Tribune,1,13.0,
+Real Raw News,1,,7.0
+The Patriot-News,1,-5.0,
+Jessie Waters,1,,10.0
+European Investment Bank,1,,0.0
+Benny Johnson,1,22.0,10.0
+Milwaukee Journal Sentinel,1,-7.0,5.0
+American Consequences,1,22.0,
+John Iadarola,1,,10.0
+Russell Brand,1,,10.0
+Anthony Cabassa,1,,10.0
+Justin Robert Young,1,,10.0
+Poor Peoples Campaign,1,,15.0
+Blavity,1,,15.0
+Robert Evans,1,,10.0
+Duluth News Tribune,1,-3.0,
+big3.com,1,,14.0
+Jeremy Harrell,1,,10.0
+Stamford Advocate,1,-7.0,
+BET,1,,15.0
+Statnews.com,1,-10.0,
+The Answer,1,,15.0
+Shit You Should Care About,1,,15.0
+Seattle Post-Intelligencier,1,-11.0,5.0
+Real America News,1,,6.0
+Patriotic Times,1,,7.0
+ProPublica,1,-9.0,
+wearemitu.com,1,,6.0
+The Odyssey Online,1,-14.0,
+Idaho State Journal,1,4.5,
+Pacifica Network,1,,16.0
+Vulture,1,-12.0,
+White House,1,,11.0
+David Webb,1,,10.0
+Michael Malice,1,,10.0
+Virginian Pilot,1,-5.0,
+The Soufan Center,1,,15.0
+Irish Times,1,-8.0,
+Current Affairs,1,-19.0,
+Bret Baier,1,,10.0
+Anti-Racism Daily,1,,16.0
+Newark Star Ledger,1,-12.0,
+Jim Quinn,1,,10.0
+The Hustle,1,,15.0
+Daily Zeitgeist,1,,13.0
+Wedge LIVE,1,,15.0
+CSN Radio,1,,8.0
+Black Agenda Report,1,-27.0,
+Visual Capitalist,1,,15.0
+TD Ameritrade,1,,0.0
+WallBuilders,1,30.0,
+Mad Magazine,1,,13.0
+Popular Front,1,,15.0
+Dinesh D’Souza,1,,10.0
+newsnotnoise.com,1,,15.0
+thehardtimes.net,1,,13.0
+The Spectator,1,,6.0
+Al Monitor,1,-9.0,
+thedrive.com,1,,15.0
+Gawker,1,,6.0
+New York Magazine,1,-19.0,
+Entertainment Weekly,1,-8.0,
+outreachmagazine.com,1,,15.0
+whatreallyhappened.com,1,,7.0
+Erie Times-News,1,-3.0,
+Concord Monitor,1,-3.0,
+The Sun,1,23.0,
+Post and Courier,1,2.0,
+Viva Frei,1,,15.0
+RealClearPolitics,1,11.0,
+Post Millennial,1,25.0,
+indianz.com,1,,6.0
+London Times,1,11.0,
+Elektrek.co,1,,15.0
+Hoopla,1,,0.0
+wtf is happening,1,,0.0
+Epoch Times,1,22.0,
+azcentral.com,1,-7.0,
+Donald Trump Jr.,1,,10.0
+offthepress.com,1,,7.0
+Martin Armstrong,1,,15.0
+Rational Ground,1,23.0,
+Rolling Stone,1,-19.0,
+raw-news.net,1,,15.0
+Loop News,1,,6.0
+The Last American Vagabond,1,,15.0
+Chris Cuomo,1,,10.0
+amac.us,1,24.0,
+Before Its News,1,,15.0
+TLDR News,1,,15.0
+George Stephanopolis,1,-7.0,10.0
+Gayle King,1,,10.0
+Common Cause,1,-10.0,
+pcgamer.com,1,,15.0
+Lew Rockwell,1,30.0,
+William Briggs,1,,15.0
+Teen Vogue,1,-21.0,
+Smithsonian Magazine,1,0.0,
+Pantsuit Politics,1,,16.0
+Democratic Underground,1,-25.0,
+theflipside.io,1,0.0,
+Howard Stern,1,,10.0
+Unassociatedpress.org,1,,15.0
+No Agenda,1,21.3,
+Tempest Magazine,1,,15.0
+Babylon Bee,1,,13.0
+The Common Sense Show,1,22.9,
+The City,1,-8.0,
+Jonathan Turley,1,22.0,10.0
+Military Times,1,-3.0,
+Liberal Hivemind,1,,7.0
+Pew Research,1,0.0,
+Bott Radio Network,1,,8.0
+iceagefarmer.com,1,,15.0
+America's Voice,1,-16.0,
+Daystar Television,1,,8.0
+Latino USA,1,,15.0
+Robert Gurler,1,,10.0
+Cycling News,1,,0.0
+fxstreet.com,1,,6.0
+Daily Chatter,1,,4.0
+Majority Report,1,-17.0,
+Gary Null,1,,10.0
+nsmb.com,1,,15.0
+Richard Wolff,1,,10.0
+Cape Cod Times,1,-3.0,
+The Wire,1,-6.0,
+Alexa Foxx,1,,10.0
+Readers Digest,1,18.0,
+Hal Turner,1,,10.0
+The Buffalo News,1,-10.0,
+Breaking911,1,16.3,
+israelhayom.com,1,23.0,
+Atlantic,1,-10.0,
+Gainesville Sun,1,3.0,
+whatfinger.com,1,23.0,
+Guy McPherson,1,,10.0
+Blind Kim Seokjin,1,,15.0
+Wendy Bill,1,,15.0
+legalinsurrection.com,1,22.0,
+We the Media,1,,0.0
+The News Tribune,1,-9.0,5.0
+knowwherenews.com,1,,0.0
+Rochash Wham,1,,10.0
+APN News,1,,6.0
+jw.org,1,,8.0
+swprs.org/media-navigator,1,,15.0
+eonline.com,1,,6.0
+Elijah Streams,1,,10.0
+radindiemedia.com,1,,16.0
+Daily Poster,1,-24.0,
+Gwendolyn Sue Logan,1,,10.0
+Jamie Chapman,1,,10.0
+raptureready.com,1,,8.0
+Tipping Point Radio,1,,15.0
+freerepublic.com,1,24.0,
+Arnold King,1,,10.0
+stuff.co.nz,1,-7.0,
+yubanet.com,1,,5.0
+anandabazar.com,1,,0.0
+Rapid City Journal,1,-2.0,
+fidelity.com,1,,0.0
+Law Enforcement Today,1,27.0,
+Aaron Rupar,1,,10.0
+joemygod.com,1,,15.0
+ClearValue Tax,1,,0.0
+Desert Sun,1,4.5,
+Science Daily,1,0.0,
+The Ringer,1,-10.0,
+The Final Call,1,,15.0
+Styxhexenhammer666,1,,0.0
+Useful Idiots,1,-16.2,
+whatdoesitmean.com,1,,0.0
+Nick Fuentes,1,,10.0
+MetroZone,1,,15.0
+Santa Rosa Press Democrat,1,-7.0,
+electoral-vote.com,1,-17.0,
+mymotherlode.com,1,,5.0
+Tree House,1,31.0,
+Democrat and Chronicle,1,-9.0,
+weaselzippers.us,1,26.0,
+9gag.com,1,,3.0
+Varney Fox,1,,10.0
+filtermag.org,1,,15.0
+The Flip Side,1,0.0,
+ace.mu.nu,1,,7.0
+Red Eye Radio,1,,15.0
+Daily Citizen - Focus on the Family,1,29.0,
+Michael Berry,1,,10.0
+Buck Sexton,1,,15.0
+New England Journal of Medicine,1,,15.0
+Redfish,1,,15.0
+mirs.news,1,,5.0
+Pamplin Media,1,,15.0
+Smash Da Topic,1,,15.0
+The Telegraph,1,,6.0
+Mark Dice,1,,10.0
+Conservative Daily,1,28.0,
+SmartHERNews,1,,12.0
+whatthefuckjusthappenedtoday.com,1,,12.0
+dailypnut.com,1,,12.0
+newsone.com,1,-21.0,
+Joy Reid,1,,10.0
+Norfolk Daily News,1,1.0,
+NextNewsNow,1,,12.0
+Citations Needed,1,,15.0
+Political Flare,1,-30.0,
+Waco Tribune-Herald,1,-1.0,
+The Watchman,1,,7.0
+Joe Scarborough,1,,10.0
+Hartford Courant,1,-11.0,
+Winston Salem Journal,1,-4.0,
+Jay Sekulow,1,,10.0
+Rational Security 2.0,1,,15.0
+hisglory.me,1,,8.0
+Left Right and Center,1,,0.0
+Lincoln Journal Star,1,-1.0,
+Fresno Bee,1,-9.0,
+New Haven Register,1,-7.0,
+Dow Jones,1,,0.0
+American Prospect,1,-21.0,
+Advisor Perspectives,1,,14.0
+lucianne.com,1,25.0,
+Daily Patriot Report,1,,15.0
+Catholic news,1,,7.0
+Herfkervelt,1,,15.0
+SkyWatch TV,1,,8.0
+Byron York,1,,10.0
+lehighvalleylive.com,1,-6.0,
+Stew Peters,1,,10.0
+Science Magazine,1,0.0,
+The Inside Drop,1,,15.0
+Voice of San Diego,1,-11.0,
+insider.com,1,-12.0,
+Church Militant,1,29.0,
+thehighwire.com,1,,7.0
+First Things,1,,15.0
+Mike Gallagher,1,,10.0
+Jewish World Review,1,23.0,
+Michael Smerconish,1,,10.0
+Dick Morris,1,,10.0
+Texas Monthly,1,-10.0,
+Bleacher Report,1,-8.0,
+thegamer.com,1,,15.0
+Renewed Right,1,,7.0
+John Birch Society,1,,6.0
+Ron Placone,1,,10.0
+Ames Tribune,1,,5.0
+The Late Show,1,,13.0
+Robin Meade,1,,10.0
+Noticias al dia,1,,0.0
+HackerNews,1,,15.0
+Stephanie Miller,1,,10.0
+Hasan Piker,1,,10.0
+Bridget Phetasy,1,,10.0
+Liberty Daily,1,29.0,
+amerika.org,1,,7.0
+HighWire Press,1,,15.0
+Damage Report,1,,16.0
+Lindell TV,1,27.0,
+Pittsburgh Tribune Review,1,8.0,
+Hamodia,1,,15.0
+Radio New Zealand,1,,6.0
+American Action Network,1,,6.0
+imgur,1,,3.0
+NewsMax,1,27.0,
+In These Times,1,-24.0,
+Bob Livingston,1,,10.0
+Conservative Brief,1,27.0,
+digg.com,1,-8.0,
+L.A. Marzulli,1,,10.0
+strangesounds.org,1,,15.0
+CFP,1,,0.0
+Sonali Kolhatkar,1,,10.0
+Citizens for Responsibility and Ethics in Washington,1,,15.0
+David Horowitz,1,,10.0
+Anglican Ink,1,,8.0
+Ashleigh Banfield,1,,10.0
+Vaush,1,,15.0
+Final Point,1,,0.0
+Michael Barbaro,1,-10.0,10.0
+The Real News Network,1,-18.0,
+TFIGlobal,1,,0.0
+Patriot,1,,15.0
+ndtv.com,1,-13.0,
+CoinDesk,1,,0.0
+ndr.de,1,,6.0
+Political Wire,1,-3.0,
+Jack Posobiec,1,,10.0
+Headline in Time,1,,4.0
+Andrea Mitchell,1,,10.0
+The Journal Gazette,1,-2.0,
+Britxit,1,,0.0
+American Family Radio,1,29.0,
+Black News Channel,1,,6.0
+Young Conservatives,1,27.0,
+Alimetry,1,,0.0
+News Explorer,1,,15.0
+Craigslist,1,,0.0
+newsa,1,,0.0
+Roman Balmakov,1,,10.0
+Just the Facts,1,24.0,
+The Morning Call,1,-2.0,
+Waterbury Republican,1,11.0,
+barchart.com,1,,15.0
+medpagetoday.com,1,0.0,
+Jordan Times,1,-3.0,
+The New Abnormal,1,,6.0
+digtial media,1,,12.0
+Anthony Brian Logan,1,,10.0
+NTL Institute,1,,15.0
+banned.video,1,,15.0
+Fareed Zakaria,1,,10.0
+Rochester Post Bulletin,1,4.5,5.0
+Good News Network,1,,15.0
+Bozeman Daily Chronicle,1,-1.0,
+futuredanger.com,1,,7.0
+No Labels,1,-2.0,
+scotusblog.com,1,-2.0,
+We Are Change,1,20.0,
+Answers News,1,,8.0
+The Rational National,1,,7.0
+Medium,1,-9.0,
+VivaBarnesLaw,1,,15.0
+Air Force Times,1,0.0,
+Your Black World,1,-20.0,
+Edge,1,,15.0
+warroom.org,1,,7.0
+Catholic Family News,1,,8.0
+Northwest Arkansas Gazette,1,4.5,5.0
+Bill Spadea,1,,10.0
+Feedly,1,,4.0
+Marc Levin,1,,10.0
+WeGo.Social,1,,3.0
+detroitnews.com,1,12.0,
+Haaretz,1,-17.0,
+Bernard Goldberg,1,,10.0
+Israel National News,1,14.0,
+Right Wing Watch,1,-25.0,
+spiceworks.com,1,,0.0
+New Atlas,1,0.0,
+Chicks on the Right,1,23.0,
+OutKick,1,24.0,
+loudwire.com,1,,15.0
+Centre for Research on Globalization,1,,15.0
+Bitch Media,1,-20.0,
+Florida Times Union,1,-3.0,
+Realclear Politics,1,,6.0
+Red Future News,1,,7.0
+matzav.com,1,,8.0
+Occupy Democrats,1,-31.0,
+The Washington Inquirer,1,,15.0
+Harvard Business Review,1,-2.0,
+Kiplinger Letter,1,-2.0,
+spectrum.ieee.org,1,0.0,
+Charles Hugh Smith,1,,10.0
+The Ann Arbor News,1,0.0,
+Ken LaCorte,1,,10.0
+repeat.gg,1,,0.0

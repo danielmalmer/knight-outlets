@@ -1,40 +1,95 @@
-code,score,source,comment,
-Dan Bongino,28,MBFC Premium,
-Tim Pool,22,Ad Fontes,
+code,score,source,comment
+Dan Bongino,28,MBFC Premium,28 appearances
+Tim Pool,22,Ad Fontes,28 app
 Tucker Carlson,28,MBFC,15-point scale
-Sean Hannity,28,MBFC Premium,15-point scale.
-Rachel Maddow,-23,MBFC Premium,15-point scale (verify)
+Sean Hannity,28,MBFC Premium,15-point scale.20 appearances
+Rachel Maddow,-23,MBFC Premium,15-point scale (verify) 18 app
 David Muir,-10,MBFC,Same as ABC
-Breaking Points with Krystal and Saagar,1,Ad Fontes,
+Breaking Points with Krystal and Saagar,1,Ad Fontes,17 app
 Lester Holt,-12,MBFC,NBC News
-Trevor Noah,-17,Ad Fontes,The Daily Show
-Steven Crowder,27,MBFC Premium,Louder with Crowder (Thermometer image)
-The Majority Report,-17,Ad Fontes,
-Sam Seder,-17,Ad Fontes,The Majority Report
-Ben Shapiro,20,MBFC Premium,15-point scale (verify)
-Mark Levin,32,Ad Fontes,The Mark Levin Show
-Glenn Beck,28,MBFC Premium,15-point scale
-Bill O’Reilly,24,MBFC Premium,15-point scale (verify)
-George Stephanopolis,-7,Ad Fontes,
-Today Show,-5,Ad Fontes,
-Good Morning America,-5,Ad Fontes,
-Steve Bannon,29,Ad Fontes,Bannon's War Room
-Pod Save America,-25,Ad Fontes,
-Dave Rubin,24,Ad Fontes,The Rubin Report
-Joe Rogan,27,MBFC Premium,The Joe Rogan Experience (Thermometer image)
-Alex Jones,32,Ad Fones,InfoWars: The Alex Jones Show
-Matt Walsh,24,Ad Fontes,The Matt Walsh Show
-Bill Maher,-9,Ad Fontes,Real Time with Bill Maher
-Mike Huckabee,20,Ad Fontes,TBN: Huckabee
-Jonathan Turley,22,Ad Fontes,Turley Talks
-Benny Johnson,22,Ad Fontes,Newsmax: The Benny Report
-David Pakman,-11,Ad Fontes,The David Pakman Show
-Morning Brew,0,Ad Fontes,
-Financial Times,-4,Ad Fontes,
-Christian Broadcast Network,16,Ad Fontes,CBN
-Rush Limbaugh,26,Ad Fontes,
-Anderson Cooper,-13,Ad Fontes,CNN: Anderson Cooper 360
-Morning Joe,-10,Ad Fontes,
+Trevor Noah,-17,Ad Fontes,The Daily Show 5 app
+Steven Crowder,27,MBFC Premium,Louder with Crowder (Thermometer image) 10 app
+The Majority Report,-17,Ad Fontes, 9 app
+Sam Seder,-17,Ad Fontes,The Majority Report 2 app
+Ben Shapiro,20,MBFC Premium,15-point scale (verify) 9 app
+Mark Levin,32,Ad Fontes,The Mark Levin Show 8 app
+Glenn Beck,28,MBFC Premium,15-point scale 8 app
+Bill O’Reilly,24,MBFC Premium,15-point scale (verify) 7 app
+George Stephanopolis,-7,Ad Fontes, 1 app
+Today Show,-5,Ad Fontes, 18 app 
+Good Morning America,-5,Ad Fontes, 23 app
+Steve Bannon,29,Ad Fontes,Bannon's War Room 8 app
+Pod Save America,-25,Ad Fontes, 4 app
+Dave Rubin,24,Ad Fontes,The Rubin Report 4 app
+Joe Rogan,27,MBFC Premium,The Joe Rogan Experience (Thermometer image) 3 app
+Alex Jones,32,Ad Fontes,InfoWars: The Alex Jones Show 3 app
+Matt Walsh,24,Ad Fontes,The Matt Walsh Show 3 app
+Bill Maher,-9,Ad Fontes,Real Time with Bill Maher 4 app
+Mike Huckabee,20,Ad Fontes,TBN: Huckabee 4 app
+Jonathan Turley,22,Ad Fontes,Turley Talks 1 app
+Benny Johnson,22,Ad Fontes,Newsmax: The Benny Report 1 app
+David Pakman,-11,Ad Fontes,The David Pakman Show 5 app
+Morning Brew,0,Ad Fontes, 9 app
+Financial Times,-4,Ad Fontes, 9 app
+Christian Broadcast Network,16,Ad Fontes,CBN 13 app
+Rush Limbaugh,26,Ad Fontes, 3 app
+Anderson Cooper,-13,Ad Fontes,CNN: Anderson Cooper 360 2 app
+Morning Joe,-10,Ad Fontes, 4 app
 Dan Rather,-11,MBFC,News and Guts
-Jimmy Dore,-33,Ad Fontes,
-Jake Tapper,-6,MBFC Premium,15-point scale (verify)
+Jimmy Dore,-33,Ad Fontes, 2 app
+Jake Tapper,-6,MBFC Premium,15-point scale (verify) 2 app
+LifeSiteNews,27,MBFC,Change codebook
+Free Speech TV,-21,MBFC,Change codebook
+Now This,-26,MBFC,Change codebook
+Real America’s Voice,23,MBFC,Change codebook
+America’s Voice,-16,MBFC,Change codebook
+ACLJ,24,MBFC,Change codebook
+Wired,-9,MBFC,Change codebook
+Cincinnati Enquirer,-3,MBFC,Change codebook
+Press Democrat,-7,MBFC,Santa Rosa Press Democrat?
+NHK,-7,MBFC,Change codebook
+wng.org,22,MBFC,Change codebook
+New Tang Dynasty,27,MBFC,Change codebook
+Cheddar News,-6,MBFC,Change codebook
+700 Club,24,MBFC,Christian Broadcast Network
+NHK World-Japan,-7,MBFC,Change codebook
+American Family Associaton,29,MBFC,Change codebook
+newsnow.com,-2,MBFC,Change codebook
+NewsWatch,-6,MBFC,Change codebook
+NRA,27,MBFC,Change codebook
+The Pour Over,8,MBFC,Source?
+Cedar Rapids Gazette,10,MBFC,Change codebook
+China Uncensored,27,MBFC,New Tang Dynasty
+Times Union,-6,MBFC,Albany Times-Union
+San Bernardino Sun,8,MBFC,Change codebook
+Populist Press,30,MBFC,Change codebook
+The Grio,-23,MBFC,Change codebook
+BusinessWeek,-6,MBFC,Bloomberg
+Coast to Coast,17.6,MBFC,Change codebook
+Black Eyed Politics,32,MBFC,Change codebook
+Tacoma News Tribune,-9,MBFC,Change codebook
+The Horn News,30,MBFC,Change codebook
+MintPress News,-12,MBFC,Change codebook
+drmercola.com,7.1,MBFC,Change codebook (did this actually come from NE data?)
+Daily Telegraph,21,MBFC,Change codebook
+Sarasota Herald,-2,MBFC,Change codebook
+New Hampshire Union Leader,16,MBFC,Change codebook
+Milwaukee Journal Sentinel,-7,MBFC,Change codebook
+Seattle Post-Intelligencier,-11,MBFC,Misspelling
+RealClearPolitics,11,MBFC,Change codebook
+Readers Digest,18,MBFC,Change codebook
+Tree House,31,MBFC,Conservative Treehouse
+The Wire,-6,MBFC,Change codebook
+Daily Citizen - Focus on the Family,29,MBFC,Change codebook
+Conservative Daily,28,MBFC,Change codebook
+The News Tribune,-9,MBFC,Change codebook
+Michael Barbaro,-10,MBFC,New York Times
+American Family Radio,29,MBFC,American Family Association
+Northwest Arkansas Gazette,4.5,MBFC,Northest Arkansas Democrat-Gazette
+Rochester Post Bulletin,4.5,MBFC,Change codebook
+Israel National News,14,MBFC,Change codebook
+Kiplinger Letter,-2,MBFC,Change codebook
+spectrum.ieee.org,0,MBFC,Change codebook
+Useful Idiots,-16.2,Ad Fontes, 1 app
+No Agenda,21.3,Ad Fontes, 1 app
+Tangle,1.8,Ad Fontes, 1 app
